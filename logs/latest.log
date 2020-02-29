@@ -1,0 +1,45 @@
+[21:35:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:35:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:35:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:35:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:35:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:35:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:35:28] [Server thread/INFO]: Loading properties
+[21:35:28] [Server thread/INFO]: Default game type: SURVIVAL
+[21:35:28] [Server thread/INFO]: Generating keypair
+[21:35:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:35:28] [Server thread/INFO]: Using epoll channel type
+[21:35:28] [Server thread/INFO]: Preparing level "world"
+[21:35:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:35:30] [User Authenticator #1/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[21:36:03] [Server thread/INFO]: Loaded 6 recipes
+[21:36:03] [Server thread/INFO]: Loaded 825 advancements
+[21:36:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:36:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:36:06] [Server thread/INFO]: Time elapsed: 2216 ms
+[21:36:06] [Server thread/INFO]: Done (37.690s)! For help, type "help"
+[21:36:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c8337e4[id=abf4a136-9ed0-41c8-879d-22c77dda5753,name=AmitDe69,properties={textures=[com.mojang.authlib.properties.Property@78b6c9e2]},legacy=false] (/82.166.75.125:60388) lost connection: Disconnected
+[21:36:07] [User Authenticator #2/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[21:36:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ae4db5[id=abf4a136-9ed0-41c8-879d-22c77dda5753,name=AmitDe69,properties={textures=[com.mojang.authlib.properties.Property@264b20c0]},legacy=false] (/82.166.75.125:60394): You are banned from this server.
+Reason: Banned by an operator.
+[21:36:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ae4db5[id=abf4a136-9ed0-41c8-879d-22c77dda5753,name=AmitDe69,properties={textures=[com.mojang.authlib.properties.Property@264b20c0]},legacy=false] (/82.166.75.125:60394) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21:36:13] [Server thread/INFO]: Unknown command
+[21:36:13] [Server thread/INFO]: /pradon amitde69<--[HERE]
+[21:36:22] [Server thread/INFO]: Unknown command
+[21:36:22] [Server thread/INFO]: /pardom amitde69<--[HERE]
+[21:36:25] [Server thread/INFO]: Unknown command
+[21:36:25] [Server thread/INFO]: [A<--[HERE]
+[21:36:32] [Server thread/INFO]: Unbanned AmitDe69
+[21:36:34] [Server thread/INFO]: Unknown command
+[21:36:34] [Server thread/INFO]: <--[HERE]
+[21:36:38] [User Authenticator #3/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[21:36:38] [Server thread/INFO]: AmitDe69[/82.166.75.125:60396] logged in with entity id 35 at (464.829414618305, 70.64390748618995, -478.3717008292684)
+[21:36:38] [Server thread/INFO]: AmitDe69 joined the game
+[21:36:50] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[21:41:54] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[21:45:18] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[21:45:18] [Server thread/INFO]: AmitDe69 left the game

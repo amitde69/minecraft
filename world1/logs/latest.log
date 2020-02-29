@@ -1,0 +1,117 @@
+[17:23:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:23:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:23:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:23:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:23:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:23:23] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:23:23] [Server thread/INFO]: Loading properties
+[17:23:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:23:23] [Server thread/INFO]: Generating keypair
+[17:23:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:23:25] [Server thread/INFO]: Using epoll channel type
+[17:23:25] [Server thread/INFO]: Preparing level "world"
+[17:23:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:23:29] [Server thread/INFO]: Loaded 6 recipes
+[17:23:30] [Server thread/INFO]: Loaded 825 advancements
+[17:23:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:36] [User Authenticator #1/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[17:24:01] [User Authenticator #2/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:09] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:10] [User Authenticator #3/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[17:24:10] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:10] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:11] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:24:11] [Server thread/INFO]: Preparing spawn area: 0%
+[17:24:12] [Server-Worker-1/INFO]: Preparing spawn area: 28%
+[17:24:12] [Server thread/INFO]: Preparing spawn area: 35%
+[17:24:13] [Server-Worker-1/INFO]: Preparing spawn area: 46%
+[17:24:13] [Server-Worker-1/INFO]: Preparing spawn area: 52%
+[17:24:14] [Server thread/INFO]: Preparing spawn area: 61%
+[17:24:16] [Server thread/INFO]: Preparing spawn area: 73%
+[17:24:16] [Server thread/INFO]: Preparing spawn area: 73%
+[17:24:16] [Server thread/INFO]: Preparing spawn area: 73%
+[17:24:16] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID fb450ac3-6879-4c65-b18c-243bfc1a55e5
+[17:24:16] [Server thread/INFO]: Time elapsed: 43574 ms
+[17:24:16] [Server thread/INFO]: Done (50.732s)! For help, type "help"
+[17:24:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@506c9a15[id=4dff6a3b-b960-4b2d-81cf-5e1f259a052b,name=RanDn98,properties={textures=[com.mojang.authlib.properties.Property@a011f0]},legacy=false] (/79.179.52.31:50214) lost connection: Disconnected
+[17:24:17] [Server thread/INFO]: RanDn98[/79.179.52.31:50223] logged in with entity id 110 at (-315.1932213585263, 71.0, -155.74218694393844)
+[17:24:17] [Server thread/INFO]: RanDn98 joined the game
+[17:24:18] [Server thread/INFO]: AmitDe69[/82.166.75.125:50828] logged in with entity id 111 at (-353.69999998807907, 70.0, -149.9512936686566)
+[17:24:18] [Server thread/INFO]: AmitDe69 joined the game
+[17:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8690ms or 173 ticks behind
+[17:24:31] [Server thread/INFO]: <AmitDe69> answer skype
+[17:24:42] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
