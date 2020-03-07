@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-03-07 19:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-02-29 16:44:16 +0000"
@@ -218,6 +224,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-02-29 17:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-03-07 18:03:37 +0000"
     },
     "done": true
   },
@@ -485,6 +497,7 @@
       "minecraft:spider": "2020-02-29 16:57:12 +0000",
       "minecraft:creeper": "2020-03-06 14:37:11 +0000",
       "minecraft:witch": "2020-03-06 16:03:02 +0000",
+      "minecraft:cave_spider": "2020-03-07 18:19:26 +0000",
       "minecraft:enderman": "2020-02-29 16:58:49 +0000",
       "minecraft:zombie": "2020-02-29 16:58:34 +0000"
     },
@@ -1564,6 +1577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-03-07 19:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2020-02-29 17:56:37 +0000",
@@ -1776,6 +1795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-03-07 18:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-02-29 17:51:49 +0000"
@@ -1929,6 +1954,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-02-29 16:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-03-07 19:14:43 +0000"
     },
     "done": true
   },
@@ -2211,6 +2242,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-02-29 16:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-03-07 18:03:37 +0000"
     },
     "done": true
   },

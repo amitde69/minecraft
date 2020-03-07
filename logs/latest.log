@@ -1,238 +1,212 @@
-[18:29:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:29:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:29:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:29:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:29:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:29:59] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[18:29:59] [Server thread/INFO]: Loading properties
-[18:29:59] [Server thread/INFO]: Default game type: SURVIVAL
-[18:29:59] [Server thread/INFO]: Generating keypair
-[18:29:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:29:59] [Server thread/INFO]: Using epoll channel type
-[18:29:59] [Server thread/INFO]: Preparing level "world"
-[18:29:59] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:30:02] [Server thread/INFO]: Loaded 6 recipes
-[18:30:02] [Server thread/INFO]: Loaded 825 advancements
-[18:30:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:30:06] [Server thread/INFO]: Preparing spawn area: 0%
-[18:30:06] [Server thread/INFO]: Preparing spawn area: 0%
-[18:30:06] [Server thread/INFO]: Preparing spawn area: 0%
-[18:30:06] [Server thread/INFO]: Preparing spawn area: 0%
-[18:30:09] [User Authenticator #1/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[18:30:13] [User Authenticator #2/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:30:30] [Server thread/INFO]: Preparing spawn area: 49%
-[18:30:30] [Server thread/INFO]: Time elapsed: 25662 ms
-[18:30:30] [Server thread/INFO]: Done (31.217s)! For help, type "help"
-[18:30:31] [Server thread/INFO]: AmitDe69[/82.166.75.125:59803] logged in with entity id 35 at (434.6281471021477, 68.0, -492.9260991789598)
-[18:30:31] [Server thread/INFO]: AmitDe69 joined the game
-[18:30:31] [Server thread/INFO]: RanDn98[/79.179.52.31:64837] logged in with entity id 460 at (432.30000001192093, 68.0, -493.43299313580513)
-[18:30:31] [Server thread/INFO]: RanDn98 joined the game
-[18:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
-[18:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12258ms or 245 ticks behind
-[18:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4856ms or 97 ticks behind
-[18:31:28] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
-[18:31:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4575ms or 91 ticks behind
-[18:31:51] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
-[18:31:56] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[18:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
-[18:32:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1244, l='world', x=442.52, y=68.00, z=-491.27]
-[18:32:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1244, l='world', x=442.52, y=68.00, z=-491.27]
-[18:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5799ms or 115 ticks behind
-[18:32:31] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
-[18:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4808ms or 96 ticks behind
-[18:32:44] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
-[18:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5506ms or 110 ticks behind
-[18:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
-[18:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
-[18:33:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1891, l='world', x=448.19, y=68.00, z=-491.44]
-[18:33:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1891, l='world', x=448.19, y=68.00, z=-491.44]
-[18:33:54] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
-[18:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
-[18:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
-[18:34:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1981, l='world', x=443.72, y=68.00, z=-489.86]
-[18:34:17] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1981, l='world', x=443.72, y=68.00, z=-489.86]
-[18:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
-[18:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
-[18:34:56] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
-[18:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4125ms or 82 ticks behind
-[18:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
-[18:35:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2180, l='world', x=448.48, y=68.00, z=-491.77]
-[18:35:33] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2180, l='world', x=448.48, y=68.00, z=-491.77]
-[18:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
-[18:36:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2240, l='world', x=443.04, y=68.00, z=-490.55]
-[18:36:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2240, l='world', x=443.04, y=68.00, z=-490.55]
-[18:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
-[18:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
-[18:36:27] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
-[18:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
-[18:36:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2374, l='world', x=439.84, y=68.00, z=-490.11]
-[18:36:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2374, l='world', x=439.84, y=68.00, z=-490.11]
-[18:37:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2522, l='world', x=425.97, y=68.00, z=-491.35]
-[18:37:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2522, l='world', x=425.97, y=68.00, z=-491.35]
-[18:38:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2708, l='world', x=448.58, y=68.00, z=-491.17]
-[18:38:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2708, l='world', x=448.58, y=68.00, z=-491.17]
-[18:39:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2834, l='world', x=441.62, y=68.00, z=-491.73]
-[18:39:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2834, l='world', x=441.62, y=68.00, z=-491.73]
-[18:40:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2947, l='world', x=438.74, y=68.00, z=-490.24]
-[18:40:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2947, l='world', x=438.74, y=68.00, z=-490.24]
-[18:40:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3006, l='world', x=428.60, y=68.00, z=-489.83]
-[18:40:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3006, l='world', x=428.60, y=68.00, z=-489.83]
-[18:41:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3117, l='world', x=440.81, y=68.00, z=-490.68]
-[18:41:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3117, l='world', x=440.81, y=68.00, z=-490.68]
-[18:41:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3168, l='world', x=440.93, y=68.00, z=-490.27]
-[18:41:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3168, l='world', x=440.93, y=68.00, z=-490.27]
-[18:41:44] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[18:41:48] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
-[18:41:50] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[18:42:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3322, l='world', x=445.02, y=68.00, z=-489.83]
-[18:42:39] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3322, l='world', x=445.02, y=68.00, z=-489.83]
-[18:42:53] [Server thread/INFO]: AmitDe69 has made the advancement [Enchanter]
-[18:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[18:46:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4227, l='world', x=425.93, y=68.00, z=-491.45]
-[18:46:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4227, l='world', x=425.93, y=68.00, z=-491.45]
-[18:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[18:47:04] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
-[18:47:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[18:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
-[18:47:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
-[18:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
-[18:50:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5102, l='world', x=425.10, y=68.00, z=-491.75]
-[18:50:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5102, l='world', x=425.10, y=68.00, z=-491.75]
-[18:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:50:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:51:44] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[18:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:52:39] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
-[18:52:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5512, l='world', x=442.36, y=68.00, z=-490.76]
-[18:52:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5512, l='world', x=442.36, y=68.00, z=-490.76]
-[18:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[18:53:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5575, l='world', x=424.89, y=68.00, z=-491.38]
-[18:53:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5575, l='world', x=424.89, y=68.00, z=-491.38]
-[18:53:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5594, l='world', x=428.26, y=68.00, z=-490.23]
-[18:53:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5594, l='world', x=428.26, y=68.00, z=-490.23]
-[18:53:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:54:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5752, l='world', x=426.38, y=68.00, z=-491.67]
-[18:54:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5752, l='world', x=426.38, y=68.00, z=-491.67]
-[18:54:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5774, l='world', x=423.76, y=68.00, z=-491.93]
-[18:54:25] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5774, l='world', x=423.76, y=68.00, z=-491.93]
-[18:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:54:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5849, l='world', x=431.86, y=68.00, z=-491.44]
-[18:54:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5849, l='world', x=431.86, y=68.00, z=-491.44]
-[18:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
-[18:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:56:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6102, l='world', x=434.89, y=68.00, z=-490.23]
-[18:56:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6102, l='world', x=434.89, y=68.00, z=-490.23]
-[18:57:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6209, l='world', x=433.68, y=68.00, z=-491.81]
-[18:57:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6209, l='world', x=433.68, y=68.00, z=-491.81]
-[18:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[18:58:02] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[18:58:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
-[18:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
-[18:58:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6530, l='world', x=421.46, y=68.00, z=-491.61]
-[18:58:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6530, l='world', x=421.46, y=68.00, z=-491.61]
-[18:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:59:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
-[18:59:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
-[18:59:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6713, l='world', x=426.50, y=68.00, z=-490.21]
-[18:59:37] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/6713, l='world', x=426.50, y=68.00, z=-490.21]
-[18:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3729ms or 74 ticks behind
-[19:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
-[19:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
-[19:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
-[19:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
-[19:01:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
-[19:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:02:21] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[19:03:38] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[19:03:41] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
-[19:06:02] [Server thread/INFO]: RanDn98 has made the advancement [Getting an Upgrade]
-[19:08:45] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[19:09:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/9363, l='world', x=432.46, y=68.00, z=-491.04]
-[19:09:08] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/9363, l='world', x=432.46, y=68.00, z=-491.04]
-[19:11:17] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[19:11:36] [Server thread/INFO]: [RanDn98: Teleported AmitDe69 to RanDn98]
-[19:13:49] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
-[19:18:00] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
-[19:18:52] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[19:20:17] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[19:21:23] [Server thread/INFO]: RanDn98 has made the advancement [Take Aim]
-[19:23:55] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[19:23:56] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[19:29:01] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[19:33:36] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[19:33:37] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[19:36:39] [Server thread/INFO]: [RanDn98: Stopping the server]
-[19:36:39] [Server thread/INFO]: Stopping server
-[19:36:39] [Server thread/INFO]: Saving players
-[19:36:39] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[19:36:39] [Server thread/INFO]: AmitDe69 left the game
-[19:36:39] [Server thread/INFO]: Saving worlds
-[19:36:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:36:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:36:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:38:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:38:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:38:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:38:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:38:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:38:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:38:09] [Server thread/INFO]: Loading properties
+[17:38:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:38:09] [Server thread/INFO]: Generating keypair
+[17:38:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:38:09] [Server thread/INFO]: Using epoll channel type
+[17:38:09] [Server thread/INFO]: Preparing level "world"
+[17:38:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:38:12] [Server thread/INFO]: Loaded 6 recipes
+[17:38:12] [Server thread/INFO]: Loaded 825 advancements
+[17:38:36] [User Authenticator #1/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[17:38:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:38:41] [Server thread/INFO]: Preparing spawn area: 0%
+[17:38:41] [Server thread/INFO]: Preparing spawn area: 0%
+[17:38:41] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:38:42] [Server thread/INFO]: Time elapsed: 1483 ms
+[17:38:42] [Server thread/INFO]: Done (32.542s)! For help, type "help"
+[17:38:42] [Server thread/INFO]: RanDn98[/79.179.52.31:50621] logged in with entity id 35 at (478.5487340727202, 70.0, -480.0223168252487)
+[17:38:42] [Server thread/INFO]: RanDn98 joined the game
+[17:39:20] [User Authenticator #2/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[17:39:20] [Server thread/INFO]: AmitDe69[/82.166.75.125:49154] logged in with entity id 778 at (458.08899048255944, 80.6693316003468, -469.76272868209594)
+[17:39:20] [Server thread/INFO]: AmitDe69 joined the game
+[17:39:32] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[17:40:47] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:43:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1546, l='world', x=423.66, y=68.00, z=-491.31]
+[17:43:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1546, l='world', x=423.66, y=68.00, z=-491.31]
+[17:44:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1833, l='world', x=428.18, y=68.00, z=-490.39]
+[17:44:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1833, l='world', x=428.18, y=68.00, z=-490.39]
+[17:44:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1859, l='world', x=430.53, y=68.00, z=-491.28]
+[17:44:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1859, l='world', x=430.53, y=68.00, z=-491.28]
+[17:45:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1912, l='world', x=419.04, y=68.00, z=-491.28]
+[17:45:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1912, l='world', x=419.04, y=68.00, z=-491.28]
+[17:46:00] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:47:51] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[17:47:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2344, l='world', x=424.42, y=68.00, z=-491.23]
+[17:47:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2344, l='world', x=424.42, y=68.00, z=-491.23]
+[17:48:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2354, l='world', x=422.22, y=68.00, z=-492.17]
+[17:48:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2354, l='world', x=422.22, y=68.00, z=-492.17]
+[17:48:03] [Server thread/INFO]: AmitDe69 has made the advancement [Best Friends Forever]
+[17:48:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2484, l='world', x=421.38, y=68.00, z=-489.83]
+[17:48:44] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2484, l='world', x=421.38, y=68.00, z=-489.83]
+[17:48:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2514, l='world', x=439.73, y=68.00, z=-491.75]
+[17:48:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2514, l='world', x=439.73, y=68.00, z=-491.75]
+[17:49:01] [Server thread/INFO]: <AmitDe69> 478.5487340727202, 70.0, -480.0223168252487
+[17:49:48] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2637, l='world', x=424.27, y=68.00, z=-489.83]
+[17:49:48] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2637, l='world', x=424.27, y=68.00, z=-489.83]
+[17:49:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2648, l='world', x=429.53, y=68.00, z=-492.17]
+[17:49:54] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2648, l='world', x=429.53, y=68.00, z=-492.17]
+[17:49:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2657, l='world', x=430.82, y=68.00, z=-490.36]
+[17:49:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2657, l='world', x=430.82, y=68.00, z=-490.36]
+[17:50:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2777, l='world', x=419.95, y=68.00, z=-491.31]
+[17:50:34] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2777, l='world', x=419.95, y=68.00, z=-491.31]
+[17:51:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2880, l='world', x=434.99, y=68.00, z=-491.65]
+[17:51:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2880, l='world', x=434.99, y=68.00, z=-491.65]
+[17:51:20] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:52:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3037, l='world', x=434.61, y=68.00, z=-489.87]
+[17:52:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3037, l='world', x=434.61, y=68.00, z=-489.87]
+[17:52:24] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3153, l='world', x=430.80, y=68.00, z=-490.30]
+[17:52:24] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3153, l='world', x=430.80, y=68.00, z=-490.30]
+[17:52:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3253, l='world', x=427.59, y=68.00, z=-489.83]
+[17:52:59] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3253, l='world', x=427.59, y=68.00, z=-489.83]
+[17:53:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3265, l='world', x=432.16, y=68.00, z=-489.52]
+[17:53:03] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3265, l='world', x=432.16, y=68.00, z=-489.52]
+[17:53:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3266, l='world', x=428.95, y=68.00, z=-492.17]
+[17:53:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3266, l='world', x=428.95, y=68.00, z=-492.17]
+[17:53:14] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3293, l='world', x=418.83, y=68.00, z=-491.19]
+[17:53:14] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3293, l='world', x=418.83, y=68.00, z=-491.19]
+[17:53:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3364, l='world', x=424.45, y=68.00, z=-489.83]
+[17:53:40] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3364, l='world', x=424.45, y=68.00, z=-489.83]
+[17:54:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3448, l='world', x=429.27, y=68.00, z=-490.30]
+[17:54:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/3448, l='world', x=429.27, y=68.00, z=-490.30]
+[17:56:27] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:57:41] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:01:48] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[18:02:01] [Server thread/INFO]: AmitDe69 has made the advancement [Take Aim]
+[18:07:17] [Server thread/WARN]: RanDn98 moved wrongly!
+[18:08:25] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[18:09:33] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[18:11:48] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[18:11:50] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[18:11:52] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[18:12:17] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[18:13:53] [Server thread/INFO]: [Server] 689 18 [D[D[
+[18:14:11] [Server thread/INFO]: [Server] 690 18 -672
+[18:14:21] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:17:11] [Server thread/INFO]: <AmitDe69> 690 18 -672
+[18:17:15] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to 690.5, 18.0, -671.5]
+[18:23:09] [Server thread/INFO]: Unknown command
+[18:23:09] [Server thread/INFO]: /say 669 14 -623<--[HERE]
+[18:23:15] [Server thread/INFO]: Unknown command
+[18:23:15] [Server thread/INFO]: [C[A<--[HERE]
+[18:23:22] [Server thread/INFO]: [Server] 669 14 -623
+[18:23:28] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:24:46] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to 669.5, 14.0, -622.5]
+[18:26:41] [Server thread/INFO]: <RanDn98> 711
+[18:26:43] [Server thread/INFO]: <RanDn98> 13
+[18:26:45] [Server thread/INFO]: <RanDn98> -740
+[18:26:47] [Server thread/INFO]: <AmitDe69> 623
+[18:26:49] [Server thread/INFO]: <AmitDe69> 12
+[18:26:51] [Server thread/INFO]: <AmitDe69> -608
+[18:26:56] [Server thread/INFO]: <AmitDe69> 664
+[18:26:58] [Server thread/INFO]: <AmitDe69> 12
+[18:27:02] [Server thread/INFO]: <AmitDe69> -609
+[18:27:05] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:28:03] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to 664.5, 12.0, -608.5]
+[18:35:50] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:43:13] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to AmitDe69]
+[18:47:50] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:50:43] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:51:19] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to 750.7, 54.0, -815.7]
+[18:51:24] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to 750.7, 54.0, -815.7]
+[18:51:32] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to 750.66, 56.49, -816.0]
+[18:51:45] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:52:00] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:53:04] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:54:02] [Server thread/INFO]: AmitDe69 was shot by RanDn98 using [Hit & Burn]
+[18:54:24] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[18:55:12] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[18:55:12] [Server thread/INFO]: AmitDe69 left the game
+[18:55:19] [User Authenticator #3/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[18:55:19] [Server thread/INFO]: AmitDe69[/82.166.75.125:49649] logged in with entity id 17855 at (486.2900278551791, 68.0, -507.04730712997804)
+[18:55:19] [Server thread/INFO]: AmitDe69 joined the game
+[18:55:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17912, l='world', x=431.30, y=68.00, z=-488.70]
+[18:55:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17912, l='world', x=431.30, y=68.00, z=-488.70]
+[18:56:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17962, l='world', x=421.03, y=68.00, z=-491.33]
+[18:56:07] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/17962, l='world', x=421.03, y=68.00, z=-491.33]
+[18:58:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/18340, l='world', x=437.93, y=68.00, z=-491.75]
+[18:58:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/18340, l='world', x=437.93, y=68.00, z=-491.75]
+[19:01:03] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[19:01:48] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[19:02:51] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[19:03:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19650, l='world', x=430.83, y=68.00, z=-489.19]
+[19:03:57] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19650, l='world', x=430.83, y=68.00, z=-489.19]
+[19:04:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19683, l='world', x=431.93, y=68.00, z=-491.32]
+[19:04:02] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19683, l='world', x=431.93, y=68.00, z=-491.32]
+[19:04:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19793, l='world', x=421.07, y=68.00, z=-491.65]
+[19:05:07] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[19:05:07] [Server thread/INFO]: AmitDe69 left the game
+[19:05:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19896, l='world', x=421.78, y=68.00, z=-491.31]
+[19:05:15] [User Authenticator #4/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[19:05:16] [Server thread/INFO]: AmitDe69[/82.166.75.125:50075] logged in with entity id 19907 at (477.7205580761361, 70.0, -481.28086340315167)
+[19:05:16] [Server thread/INFO]: AmitDe69 joined the game
+[19:06:06] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[19:06:30] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[19:07:18] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[19:07:39] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[19:08:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/20654, l='world', x=435.90, y=68.00, z=-490.32]
+[19:08:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/20654, l='world', x=435.90, y=68.00, z=-490.32]
+[19:09:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/20824, l='world', x=427.17, y=68.00, z=-490.27]
+[19:09:19] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/20824, l='world', x=427.17, y=68.00, z=-490.27]
+[19:10:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21039, l='world', x=420.16, y=68.00, z=-490.84]
+[19:11:38] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[19:12:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21274, l='world', x=431.31, y=68.00, z=-489.58]
+[19:12:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21274, l='world', x=431.31, y=68.00, z=-489.58]
+[19:13:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21487, l='world', x=422.77, y=68.00, z=-489.83]
+[19:13:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21487, l='world', x=422.77, y=68.00, z=-489.83]
+[19:13:43] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21515, l='world', x=419.24, y=68.00, z=-490.28]
+[19:15:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21766, l='world', x=423.56, y=68.00, z=-489.83]
+[19:15:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21766, l='world', x=423.56, y=68.00, z=-489.83]
+[19:15:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21847, l='world', x=429.79, y=68.00, z=-491.77]
+[19:15:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21847, l='world', x=429.79, y=68.00, z=-491.77]
+[19:16:12] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21913, l='world', x=422.42, y=68.00, z=-491.20]
+[19:16:12] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21913, l='world', x=422.42, y=68.00, z=-491.20]
+[19:16:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21992, l='world', x=430.18, y=68.00, z=-491.76]
+[19:16:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/21992, l='world', x=430.18, y=68.00, z=-491.76]
+[19:17:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22090, l='world', x=431.69, y=68.00, z=-490.16]
+[19:17:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22090, l='world', x=431.69, y=68.00, z=-490.16]
+[19:17:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22273, l='world', x=424.71, y=68.00, z=-491.79]
+[19:17:56] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22273, l='world', x=424.71, y=68.00, z=-491.79]
+[19:19:22] [Server thread/INFO]: <AmitDe69> varely hear you
+[19:19:33] [Server thread/INFO]: <RanDn98> didnt you say you breedd
+[19:20:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22958, l='world', x=422.81, y=68.00, z=-491.84]
+[19:20:29] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22958, l='world', x=422.81, y=68.00, z=-491.84]
+[19:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:22:50] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[19:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[19:23:13] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[19:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[19:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[19:24:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24156, l='world', x=418.83, y=68.00, z=-491.88]
+[19:24:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24156, l='world', x=418.83, y=68.00, z=-491.88]
+[19:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[19:24:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[19:25:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24548, l='world', x=419.20, y=68.00, z=-490.64]
+[19:25:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/24548, l='world', x=419.20, y=68.00, z=-490.64]
+[19:28:19] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[19:29:24] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[19:31:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/25641, l='world', x=432.17, y=68.00, z=-488.60]
+[19:31:31] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/25641, l='world', x=432.17, y=68.00, z=-488.60]
+[19:32:18] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[19:33:29] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[19:34:38] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[19:38:38] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[19:38:46] [Server thread/INFO]: [RanDn98: Stopping the server]
+[19:38:46] [Server thread/INFO]: Stopping server
+[19:38:46] [Server thread/INFO]: Saving players
+[19:38:46] [Server thread/INFO]: Saving worlds
+[19:38:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:38:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:38:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:38:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:38:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:38:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:38:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:38:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:38:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
