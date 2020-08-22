@@ -1,0 +1,224 @@
+[14:41:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[14:41:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:41:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:41:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:41:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:41:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:41:32] [main/INFO]: Reloading ResourceManager: Default
+[14:41:32] [Worker-Main-4/INFO]: Loaded 7 recipes
+[14:41:33] [Worker-Main-4/INFO]: Loaded 927 advancements
+[14:41:35] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[14:41:35] [Server thread/INFO]: Loading properties
+[14:41:35] [Server thread/INFO]: Default game type: SURVIVAL
+[14:41:35] [Server thread/INFO]: Generating keypair
+[14:41:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:41:35] [Server thread/INFO]: Using epoll channel type
+[14:41:35] [Server thread/INFO]: Preparing level "world"
+[14:41:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:41:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:41:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:41:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:41:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:41:42] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[14:41:42] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[14:41:43] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[14:41:44] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[14:41:44] [Worker-Main-5/INFO]: Preparing spawn area: 7%
+[14:41:44] [Worker-Main-5/INFO]: Preparing spawn area: 7%
+[14:41:45] [Worker-Main-5/INFO]: Preparing spawn area: 8%
+[14:41:45] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[14:41:46] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[14:41:46] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[14:41:47] [Worker-Main-6/INFO]: Preparing spawn area: 20%
+[14:41:47] [Worker-Main-4/INFO]: Preparing spawn area: 20%
+[14:41:48] [Worker-Main-4/INFO]: Preparing spawn area: 20%
+[14:41:48] [Worker-Main-4/INFO]: Preparing spawn area: 20%
+[14:41:49] [Worker-Main-5/INFO]: Preparing spawn area: 28%
+[14:41:49] [Worker-Main-4/INFO]: Preparing spawn area: 28%
+[14:41:50] [Worker-Main-6/INFO]: Preparing spawn area: 30%
+[14:41:50] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[14:41:51] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[14:41:51] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[14:41:52] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[14:41:53] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[14:41:53] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[14:41:53] [Worker-Main-4/INFO]: Preparing spawn area: 44%
+[14:41:54] [Worker-Main-6/INFO]: Preparing spawn area: 46%
+[14:41:54] [Worker-Main-6/INFO]: Preparing spawn area: 46%
+[14:41:55] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[14:41:55] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[14:41:56] [Worker-Main-5/INFO]: Preparing spawn area: 57%
+[14:41:57] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[14:41:57] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[14:41:57] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[14:41:59] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[14:41:59] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[14:41:59] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[14:42:00] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[14:42:00] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[14:42:01] [Worker-Main-5/INFO]: Preparing spawn area: 86%
+[14:42:01] [Worker-Main-6/INFO]: Preparing spawn area: 90%
+[14:42:02] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[14:42:02] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[14:42:02] [Server thread/INFO]: Time elapsed: 22490 ms
+[14:42:02] [Server thread/INFO]: Done (27.479s)! For help, type "help"
+[14:42:12] [User Authenticator #1/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[14:42:12] [Server thread/INFO]: AmitDe69[/82.166.75.125:61135] logged in with entity id 176 at (-150.5, 66.0, -43.5)
+[14:42:12] [Server thread/INFO]: AmitDe69 joined the game
+[14:43:28] [User Authenticator #2/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[14:43:28] [Server thread/INFO]: RanDn98[/79.179.129.123:50035] logged in with entity id 482 at (-165.5, 70.0, -50.5)
+[14:43:28] [Server thread/INFO]: RanDn98 joined the game
+[14:45:19] [Server thread/INFO]: Made AmitDe69 a server operator
+[14:45:24] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[14:45:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=72, z=-39}
+[14:45:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=71, z=-38}
+[14:45:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-165, y=71, z=-39}
+[14:45:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=71, z=-39}
+[14:45:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=71, z=-39}
+[14:45:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-167, y=71, z=-40}
+[14:45:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=71, z=-39}
+[14:45:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=71, z=-38}
+[14:45:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-166, y=71, z=-39}
+[14:45:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-165, y=71, z=-40}
+[14:45:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-166, y=79, z=-40} fx{x=-168, y=73, z=-42}
+[14:45:53] [Server thread/INFO]: [AmitDe69: Made RanDn98 a server operator]
+[14:50:30] [Server thread/INFO]: AmitDe69 has made the advancement [Stone Age]
+[14:51:05] [Server thread/INFO]: AmitDe69 has made the advancement [Getting an Upgrade]
+[14:52:09] [Server thread/INFO]: RanDn98 has made the advancement [Stone Age]
+[14:52:37] [Server thread/INFO]: [AmitDe69: Set the time to 1000]
+[14:52:46] [Server thread/INFO]: RanDn98 has made the advancement [Getting an Upgrade]
+[14:53:54] [Server thread/INFO]: AmitDe69 fell from a high place
+[14:53:55] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/1925, l='ServerLevel[world]', x=-221.88, y=54.22, z=-49.54]
+[14:54:02] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[14:54:54] [Server thread/INFO]: RanDn98 fell from a high place
+[14:55:47] [Server thread/INFO]: RanDn98 has made the advancement [Monster Hunter]
+[14:55:52] [Server thread/INFO]: AmitDe69 has made the advancement [Monster Hunter]
+[14:58:24] [Server thread/INFO]: AmitDe69 has made the advancement [Acquire Hardware]
+[14:58:30] [Server thread/INFO]: AmitDe69 has made the advancement [Isn't It Iron Pick]
+[14:58:47] [Server thread/INFO]: RanDn98 has made the advancement [Acquire Hardware]
+[14:59:26] [Server thread/INFO]: RanDn98 has made the advancement [Isn't It Iron Pick]
+[15:00:21] [Server thread/INFO]: AmitDe69 was slain by Enderman
+[15:00:36] [Server thread/INFO]: RanDn98 was slain by Enderman
+[15:08:06] [Server thread/INFO]: AmitDe69 has made the advancement [Suit Up]
+[15:08:25] [Server thread/INFO]: AmitDe69 burned to death
+[15:08:28] [Server thread/INFO]: RanDn98 has made the advancement [Suit Up]
+[15:08:28] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Helmet'/4411, l='ServerLevel[world]', x=-213.00, y=29.00, z=-124.41]
+[15:08:28] [Server thread/WARN]: Fetching packet for removed entity bcs['Sweet Berries'/4401, l='ServerLevel[world]', x=-211.60, y=29.00, z=-124.69]
+[15:09:36] [Server thread/INFO]: AmitDe69 was impaled by Drowned
+[15:12:46] [Server thread/INFO]: AmitDe69 was slain by Zombie
+[15:13:39] [Server thread/INFO]: RanDn98 fell from a high place
+[15:17:32] [Server thread/INFO]: RanDn98 has made the advancement [Diamonds!]
+[15:19:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:19:47] [Server thread/INFO]: pussy<--[HERE]
+[15:19:55] [Server thread/INFO]: [Server] pussy
+[15:20:03] [Server thread/INFO]: <RanDn98> mezayen imahot
+[15:20:14] [Server thread/INFO]: [Server] yanti prazi
+[15:20:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:20:16] [Server thread/INFO]: [A<--[HERE]
+[15:20:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:20:16] [Server thread/INFO]: <--[HERE]
+[15:20:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:20:16] [Server thread/INFO]: <--[HERE]
+[15:27:28] [Server thread/INFO]: AmitDe69 has made the advancement [Diamonds!]
+[15:28:44] [Server thread/INFO]: RanDn98 has made the advancement [Hot Stuff]
+[15:29:36] [Server thread/INFO]: AmitDe69 has made the advancement [Hot Stuff]
+[15:48:04] [Server thread/INFO]: RanDn98 has made the advancement [Sweet Dreams]
+[15:48:49] [Server thread/INFO]: AmitDe69 has made the advancement [Sweet Dreams]
+[16:00:19] [Server thread/INFO]: <AmitDe69> puta
+[16:00:32] [Server thread/INFO]: Villager bfg['Villager'/3592, l='ServerLevel[world]', x=-343.70, y=64.00, z=-294.70] died, message: 'Villager was slain by Zombie Villager'
+[16:00:42] [Server thread/INFO]: Villager bfg['Villager'/3593, l='ServerLevel[world]', x=-344.51, y=65.00, z=-294.70] died, message: 'Villager was slain by Zombie Villager'
+[16:02:52] [Server thread/INFO]: [Server] restart
+[16:03:02] [Server thread/INFO]: <RanDn98> 4ban amitde69
+[16:04:47] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[16:05:21] [Server thread/INFO]: RanDn98 fell from a high place
+[16:05:31] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to AmitDe69]
+[16:07:04] [Server thread/WARN]: RanDn98 moved too quickly! 1.8133981525458012,-7.015629452048287,7.607181674538204
+[16:10:33] [Server thread/INFO]: AmitDe69 has made the advancement [Ice Bucket Challenge]
+[16:11:09] [Server thread/INFO]: <RanDn98> kaki
+[16:11:13] [Server thread/INFO]: <AmitDe69> koka
+[16:13:03] [Server thread/INFO]: RanDn98 has made the advancement [Who is Cutting Onions?]
+[16:14:52] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[16:14:52] [Server thread/INFO]: AmitDe69 left the game
+[16:20:30] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[16:20:30] [Server thread/INFO]: RanDn98 left the game
+[16:43:31] [User Authenticator #3/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[16:43:31] [Server thread/INFO]: RanDn98[/79.179.129.123:51172] logged in with entity id 16955 at (-1004.4973181037751, 72.0, 130.84504768024905)
+[16:43:31] [Server thread/INFO]: RanDn98 joined the game
+[16:43:40] [User Authenticator #4/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[16:43:40] [Server thread/INFO]: AmitDe69[/82.166.75.125:62076] logged in with entity id 17153 at (-987.6609451594454, 66.0, 139.30000001192093)
+[16:43:40] [Server thread/INFO]: AmitDe69 joined the game
+[16:43:48] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
+[16:43:48] [Server thread/INFO]: RanDn98 left the game
+[16:43:48] [Server thread/INFO]: [RanDn98: Kicked RanDn98: Kicked by an operator]
+[16:43:48] [Server thread/INFO]: [RanDn98: Kicked AmitDe69: Kicked by an operator]
+[16:43:48] [Server thread/WARN]: handleDisconnection() called twice
+[16:43:48] [Server thread/INFO]: AmitDe69 lost connection: Kicked by an operator
+[16:43:48] [Server thread/INFO]: AmitDe69 left the game
+[16:43:54] [User Authenticator #5/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[16:43:54] [Server thread/INFO]: RanDn98[/79.179.129.123:51178] logged in with entity id 17173 at (-1004.5, 72.0, 131.5)
+[16:43:54] [Server thread/INFO]: RanDn98 joined the game
+[16:43:56] [User Authenticator #6/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[16:43:57] [Server thread/INFO]: AmitDe69[/82.166.75.125:62078] logged in with entity id 17384 at (-986.7336527178717, 65.9375, 145.61376965566402)
+[16:43:57] [Server thread/INFO]: AmitDe69 joined the game
+[16:44:07] [Server thread/INFO]: [RanDn98: Kicked AmitDe69: Kicked by an operator]
+[16:44:07] [Server thread/INFO]: AmitDe69 lost connection: Kicked by an operator
+[16:44:07] [Server thread/INFO]: AmitDe69 left the game
+[16:44:13] [User Authenticator #7/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[16:44:13] [Server thread/INFO]: AmitDe69[/82.166.75.125:62080] logged in with entity id 17409 at (-988.4894649098226, 66.76636799395752, 146.80870050865187)
+[16:44:13] [Server thread/INFO]: AmitDe69 joined the game
+[16:46:00] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[16:47:42] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[16:48:55] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[16:52:20] [Server thread/INFO]: AmitDe69 fell from a high place
+[16:52:23] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[16:56:51] [Server thread/INFO]: RanDn98 has made the advancement [Ice Bucket Challenge]
+[16:58:26] [Server thread/INFO]: RanDn98 has made the advancement [We Need to Go Deeper]
+[16:58:27] [Server thread/INFO]: AmitDe69 has made the advancement [We Need to Go Deeper]
+[17:00:45] [Server thread/INFO]: AmitDe69 has made the advancement [Take Aim]
+[17:01:57] [Server thread/INFO]: RanDn98 has made the advancement [Not Today, Thank You]
+[17:03:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1078, y=73, z=941} fx{x=-1077, y=73, z=942}
+[17:06:28] [Server thread/INFO]: [AmitDe69: Set the time to 5000]
+[17:08:07] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[17:13:36] [Server thread/INFO]: RanDn98 has made the advancement [Those Were the Days]
+[17:13:37] [Server thread/INFO]: AmitDe69 has made the advancement [Those Were the Days]
+[17:14:58] [Server thread/INFO]: RanDn98 was slain by Piglin Brute
+[17:15:08] [Server thread/INFO]: AmitDe69 was slain by Piglin Brute
+[17:18:06] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to AmitDe69]
+[17:18:48] [Server thread/INFO]: AmitDe69 was shot by Skeleton
+[17:19:17] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[17:20:01] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[17:21:26] [Server thread/INFO]: RanDn98 has made the advancement [War Pigs]
+[17:30:57] [Server thread/INFO]: AmitDe69 fell from a high place
+[17:31:06] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
+[17:31:27] [Server thread/INFO]: AmitDe69 tried to swim in lava
+[17:32:09] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:37:16] [Server thread/INFO]: <AmitDe69> -147 115 120
+[17:37:46] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:40:19] [Server thread/INFO]: <AmitDe69> -144 114 120
+[17:43:19] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:47:23] [Server thread/INFO]: [RanDn98: Kicked AmitDe69: Kicked by an operator]
+[17:47:23] [Server thread/INFO]: AmitDe69 lost connection: Kicked by an operator
+[17:47:23] [Server thread/INFO]: AmitDe69 left the game
+[17:47:26] [User Authenticator #8/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[17:47:27] [Server thread/INFO]: AmitDe69[/82.166.75.125:62871] logged in with entity id 30405 at (-1193.1574296355798, 82.0, 879.7963879331681)
+[17:47:27] [Server thread/INFO]: AmitDe69 joined the game
+[17:48:52] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:51:36] [Server thread/INFO]: AmitDe69 fell from a high place
+[17:53:56] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[17:55:09] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[17:57:03] [Server thread/WARN]: AmitDe69 moved too quickly! 9.792405347162003,0.0,-3.9189292186886178
+[17:57:50] [Server thread/WARN]: AmitDe69 moved too quickly! -7.170245475752836,3.7498424210952948,6.213884008277205
+[17:59:22] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[18:00:37] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[18:03:30] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:03:30] [Server thread/INFO]: RanDn98 left the game
+[18:04:39] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[18:07:58] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[18:07:58] [Server thread/INFO]: AmitDe69 left the game
