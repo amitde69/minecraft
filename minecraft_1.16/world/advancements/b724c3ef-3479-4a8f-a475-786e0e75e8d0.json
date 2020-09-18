@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-08-26 18:20:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2020-08-26 18:01:59 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2578
+}
