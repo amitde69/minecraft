@@ -1,0 +1,30 @@
+[02:10:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:10:21] [main/INFO]: Reloading ResourceManager: Default
+[02:10:22] [Worker-Main-4/INFO]: Loaded 7 recipes
+[02:10:23] [Worker-Main-4/INFO]: Loaded 927 advancements
+[02:10:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:10:24] [Server thread/INFO]: Loading properties
+[02:10:24] [Server thread/INFO]: Default game type: SURVIVAL
+[02:10:24] [Server thread/INFO]: Generating keypair
+[02:10:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:10:24] [Server thread/INFO]: Using epoll channel type
+[02:10:24] [Server thread/INFO]: Preparing level "world"
+[02:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:10:27] [Server thread/INFO]: Preparing spawn area: 55%
+[02:10:27] [Server thread/INFO]: Time elapsed: 2924 ms
+[02:10:27] [Server thread/INFO]: Done (3.027s)! For help, type "help"
+[02:10:45] [User Authenticator #1/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[02:10:45] [Server thread/INFO]: AmitDe69[/84.228.123.183:58100] logged in with entity id 136 at (-193.27973321220898, 79.0, -416.5517264953271)
+[02:10:45] [Server thread/INFO]: AmitDe69 joined the game
+[02:10:56] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[02:10:56] [Server thread/INFO]: AmitDe69 left the game
