@@ -1,30 +1,230 @@
-[02:10:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:10:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:10:21] [main/INFO]: Reloading ResourceManager: Default
-[02:10:22] [Worker-Main-4/INFO]: Loaded 7 recipes
-[02:10:23] [Worker-Main-4/INFO]: Loaded 927 advancements
-[02:10:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[02:10:24] [Server thread/INFO]: Loading properties
-[02:10:24] [Server thread/INFO]: Default game type: SURVIVAL
-[02:10:24] [Server thread/INFO]: Generating keypair
-[02:10:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:10:24] [Server thread/INFO]: Using epoll channel type
-[02:10:24] [Server thread/INFO]: Preparing level "world"
-[02:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
-[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
-[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
-[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
-[02:10:26] [Server thread/INFO]: Preparing spawn area: 0%
-[02:10:27] [Server thread/INFO]: Preparing spawn area: 55%
-[02:10:27] [Server thread/INFO]: Time elapsed: 2924 ms
-[02:10:27] [Server thread/INFO]: Done (3.027s)! For help, type "help"
-[02:10:45] [User Authenticator #1/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[02:10:45] [Server thread/INFO]: AmitDe69[/84.228.123.183:58100] logged in with entity id 136 at (-193.27973321220898, 79.0, -416.5517264953271)
-[02:10:45] [Server thread/INFO]: AmitDe69 joined the game
-[02:10:56] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[02:10:56] [Server thread/INFO]: AmitDe69 left the game
+[00:10:59] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[00:10:59] [Server thread/INFO]: RanDn98 left the game
+[00:11:02] [User Authenticator #19/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[00:11:02] [Server thread/INFO]: RanDn98[/45.80.91.103:24860] logged in with entity id 107603 at (-918.6999999880791, 15.0, 3050.699999988079)
+[00:11:02] [Server thread/INFO]: RanDn98 joined the game
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.707147174061674,0.0,8.907802497983312
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.66705982078679,0.0,9.311168276600938
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.701468112009707,-0.07683200149536162,9.703498581344775
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.72505586441639,-0.2274534586630068,9.93120077967933
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.751107594224777,-0.4489423104376016,10.152085609829783
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.779242128491887,-0.7384922093173572,10.36692256479023
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.809165611062554,-1.0,10.57638469018957
+[00:12:57] [Server thread/WARN]: Horse (vehicle of SnakeByt333) moved too quickly! -4.883033500687134,-1.0,10.942195008527733
+[00:13:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/109269, l='ServerLevel[world]', x=-737.02, y=70.00, z=2973.13]
+[00:19:10] [Server thread/INFO]: AmitDe69 has made the advancement [The Parrots and the Bats]
+[00:21:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/113103, l='ServerLevel[world]', x=-732.94, y=70.00, z=2978.17]
+[00:21:23] [Server thread/INFO]: <AmitDe69> -779 2972
+[00:21:55] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[00:21:55] [Server thread/INFO]: RanDn98 left the game
+[00:21:57] [User Authenticator #20/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[00:21:57] [Server thread/INFO]: RanDn98[/45.80.91.103:24897] logged in with entity id 113748 at (-910.6999999880791, 11.0, 3255.300000011921)
+[00:21:57] [Server thread/INFO]: RanDn98 joined the game
+[00:21:59] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[00:21:59] [Server thread/INFO]: RanDn98 left the game
+[00:22:01] [User Authenticator #21/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[00:22:01] [Server thread/INFO]: RanDn98[/45.80.91.103:24903] logged in with entity id 113849 at (-910.6999999880791, 11.0, 3255.300000011921)
+[00:22:01] [Server thread/INFO]: RanDn98 joined the game
+[00:22:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! 9.797169261704312,0.0,2.2954655503517643
+[00:22:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! 10.189993405986343,0.0,2.299868246483129
+[00:22:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! 10.5833954234688,0.0,2.3004904889066893
+[00:22:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! 10.977306093902143,0.0,2.2975765874894023
+[00:22:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! 11.371720387950973,0.0,2.2920535657226537
+[00:22:57] [Server thread/WARN]: AmitDe69 moved too quickly! 4.39760644045748,1.1661092609382138,9.126943185529399
+[00:22:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! 11.76665781851193,0.0,2.2853997993393023
+[00:24:32] [Server thread/INFO]: <RanDn98> -915 12 3304 mineshaft
+[00:24:50] [Server thread/INFO]: <SnakeByt333> -2000 1000
+[00:24:57] [Server thread/INFO]: <SnakeByt333> mooshroom
+[00:25:04] [Server thread/INFO]: <AmitDe69> t
+[00:25:45] [Server thread/INFO]: <AmitDe69> -779 2972
+[00:27:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! -6.199470764619946,0.0,8.311115971308482
+[00:27:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! -6.423469050280801,0.0,8.641671421905357
+[00:27:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! -6.647357228917826,0.0,8.97238529260676
+[00:27:57] [Server thread/WARN]: Boat (vehicle of SnakeByt333) moved too quickly! -6.871829300372156,0.0,9.30277306262633
+[00:34:09] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[00:34:09] [Server thread/INFO]: RanDn98 left the game
+[00:34:10] [User Authenticator #22/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[00:34:10] [Server thread/INFO]: RanDn98[/45.80.91.103:24961] logged in with entity id 121244 at (-873.3000000119209, 11.0, 3357.0090759976583)
+[00:34:10] [Server thread/INFO]: RanDn98 joined the game
+[00:36:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/122326, l='ServerLevel[world]', x=-732.33, y=70.00, z=2971.40]
+[00:39:29] [Server thread/INFO]: <AmitDe69> -779 2972
+[00:39:46] [Server thread/INFO]: <AmitDe69> 70
+[00:43:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-764, y=64, z=3016} fx{x=-763, y=62, z=3016}
+[00:43:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-774, y=64, z=3018} fx{x=-776, y=62, z=3018}
+[00:43:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-774, y=64, z=3018} fx{x=-776, y=62, z=3018}
+[00:43:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-775, y=64, z=3021} fx{x=-776, y=62, z=3022}
+[00:43:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-775, y=64, z=3021} fx{x=-776, y=62, z=3022}
+[00:43:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-776, y=64, z=3026} fx{x=-777, y=62, z=3027}
+[00:43:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-776, y=64, z=3026} fx{x=-777, y=62, z=3027}
+[00:43:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-776, y=64, z=3026} fx{x=-777, y=62, z=3027}
+[00:43:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-777, y=64, z=3027} fx{x=-777, y=62, z=3028}
+[00:43:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-777, y=64, z=3027} fx{x=-777, y=62, z=3028}
+[00:45:46] [Server thread/INFO]: [AmitDe69: Kicked RanDn98: Kicked by an operator]
+[00:45:46] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
+[00:45:46] [Server thread/INFO]: RanDn98 left the game
+[00:46:06] [User Authenticator #23/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[00:46:06] [Server thread/INFO]: RanDn98[/45.80.91.103:25013] logged in with entity id 127481 at (-767.5, 71.0, 2978.5)
+[00:46:06] [Server thread/INFO]: RanDn98 joined the game
+[00:47:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/128018, l='ServerLevel[world]', x=-737.51, y=70.00, z=2976.16]
+[00:47:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/128018, l='ServerLevel[world]', x=-737.51, y=70.00, z=2976.16]
+[00:48:05] [Server thread/INFO]: RanDn98 has made the advancement [Enchanter]
+[00:51:59] [Server thread/INFO]: AmitDe69 has made the advancement [Voluntary Exile]
+[01:07:30] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[01:07:30] [Server thread/INFO]: AmitDe69 left the game
+[01:07:36] [User Authenticator #24/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[01:07:36] [Server thread/INFO]: AmitDe69[/84.228.123.183:53855] logged in with entity id 132824 at (-767.5426401312438, 73.0, 2996.904669437094)
+[01:07:36] [Server thread/INFO]: AmitDe69 joined the game
+[01:08:31] [Server thread/INFO]: [AmitDe69: Kicked SnakeByt333: Kicked by an operator]
+[01:08:31] [Server thread/INFO]: SnakeByt333 lost connection: Kicked by an operator
+[01:08:31] [Server thread/INFO]: SnakeByt333 left the game
+[01:08:38] [User Authenticator #25/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[01:08:39] [Server thread/INFO]: SnakeByt333[/109.65.217.110:54496] logged in with entity id 133069 at (-722.5169327611055, 68.0, 2959.1360472929045)
+[01:08:39] [Server thread/INFO]: SnakeByt333 joined the game
+[01:09:42] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[01:09:42] [Server thread/INFO]: AmitDe69 left the game
+[01:09:51] [User Authenticator #26/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[01:09:51] [Server thread/INFO]: AmitDe69[/84.228.123.183:53869] logged in with entity id 133331 at (-770.1439248907552, 74.0, 2995.9292825307048)
+[01:09:51] [Server thread/INFO]: AmitDe69 joined the game
+[01:12:39] [Server thread/INFO]: [RanDn98: Saved the game]
+[01:13:37] [Server thread/INFO]: [RanDn98: Successfully filled 8 blocks]
+[01:13:48] [Server thread/INFO]: [RanDn98: Successfully filled 8 blocks]
+[01:14:02] [Server thread/INFO]: [RanDn98: Successfully filled 96 blocks]
+[01:14:12] [Server thread/INFO]: [RanDn98: Successfully filled 96 blocks]
+[01:14:23] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:14:42] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:14:46] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:15:09] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:15:49] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:16:14] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:16:24] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:18:20] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[01:18:20] [Server thread/INFO]: AmitDe69 left the game
+[01:18:30] [User Authenticator #27/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[01:18:30] [Server thread/INFO]: AmitDe69[/84.228.123.183:53928] logged in with entity id 134601 at (-771.5325592618744, 78.0, 2985.5397893270497)
+[01:18:30] [Server thread/INFO]: AmitDe69 joined the game
+[01:19:54] [Server thread/INFO]: [RanDn98: Kicked AmitDe69: Kicked by an operator]
+[01:19:54] [Server thread/INFO]: AmitDe69 lost connection: Kicked by an operator
+[01:19:54] [Server thread/INFO]: AmitDe69 left the game
+[01:19:57] [User Authenticator #28/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[01:19:57] [Server thread/INFO]: AmitDe69[/84.228.123.183:53931] logged in with entity id 134826 at (-767.6744547602542, 73.0, 2996.532687624385)
+[01:19:57] [Server thread/INFO]: AmitDe69 joined the game
+[01:20:03] [Server thread/INFO]: [RanDn98: Kicked SnakeByt333: Kicked by an operator]
+[01:20:03] [Server thread/INFO]: SnakeByt333 lost connection: Kicked by an operator
+[01:20:03] [Server thread/INFO]: SnakeByt333 left the game
+[01:20:06] [Server thread/INFO]: [RanDn98: Kicked AmitDe69: Kicked by an operator]
+[01:20:06] [Server thread/INFO]: AmitDe69 lost connection: Kicked by an operator
+[01:20:06] [Server thread/INFO]: AmitDe69 left the game
+[01:20:08] [User Authenticator #29/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[01:20:08] [Server thread/INFO]: SnakeByt333[/109.65.217.110:54875] logged in with entity id 134861 at (-761.3480620646704, 72.0, 2993.783456794485)
+[01:20:08] [Server thread/INFO]: SnakeByt333 joined the game
+[01:20:09] [User Authenticator #30/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[01:20:10] [Server thread/INFO]: AmitDe69[/84.228.123.183:53936] logged in with entity id 134887 at (-767.5, 71.5625, 2976.5)
+[01:20:10] [Server thread/INFO]: AmitDe69 joined the game
+[01:20:26] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:20:56] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:21:22] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:21:54] [Server thread/INFO]: [RanDn98: Successfully filled 1056 blocks]
+[01:30:41] [Server thread/INFO]: <RanDn98> kick SnakeByt333
+[01:37:12] [Server thread/INFO]: [RanDn98: Applied effect Bad Omen to RanDn98]
+[01:37:58] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:38:21] [Server thread/INFO]: [AmitDe69: Killed 3 entities]
+[01:38:45] [Server thread/INFO]: [AmitDe69: Killed 58 entities]
+[01:38:53] [Server thread/INFO]: [AmitDe69: Killed Ravager]
+[01:39:49] [Server thread/INFO]: Villager bfj['Villager'/62360, l='ServerLevel[world]', x=-970.41, y=72.00, z=2782.12] died, message: 'Villager fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Villager'/62385, l='ServerLevel[world]', x=-991.48, y=70.51, z=2772.49] died, message: 'Villager fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Farmer'/62386, l='ServerLevel[world]', x=-976.30, y=70.56, z=2748.70] died, message: 'Farmer fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Mason'/62389, l='ServerLevel[world]', x=-979.70, y=70.56, z=2736.02] died, message: 'Mason fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Farmer'/62404, l='ServerLevel[world]', x=-991.84, y=70.56, z=2770.51] died, message: 'Farmer fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Farmer'/62405, l='ServerLevel[world]', x=-976.73, y=71.00, z=2748.04] died, message: 'Farmer fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Nitwit'/62454, l='ServerLevel[world]', x=-1010.30, y=75.00, z=2744.49] died, message: 'Nitwit fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Cartographer'/62455, l='ServerLevel[world]', x=-976.11, y=70.56, z=2735.30] died, message: 'Cartographer fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Nitwit'/62458, l='ServerLevel[world]', x=-975.30, y=70.56, z=2735.30] died, message: 'Nitwit fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Leatherworker'/62459, l='ServerLevel[world]', x=-977.04, y=71.00, z=2748.70] died, message: 'Leatherworker fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Villager'/62476, l='ServerLevel[world]', x=-979.70, y=70.56, z=2735.30] died, message: 'Villager fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Nitwit'/62478, l='ServerLevel[world]', x=-1011.49, y=71.00, z=2710.46] died, message: 'Nitwit fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Farmer'/62483, l='ServerLevel[world]', x=-1009.70, y=74.56, z=2753.70] died, message: 'Farmer fell out of the world'
+[01:39:49] [Server thread/INFO]: Villager bfj['Villager'/96711, l='ServerLevel[world]', x=-1016.77, y=80.00, z=2731.30] died, message: 'Villager fell out of the world'
+[01:39:49] [Server thread/INFO]: RanDn98 fell out of the world
+[01:39:49] [Server thread/INFO]: SnakeByt333 fell out of the world
+[01:39:49] [Server thread/INFO]: AmitDe69 fell out of the world
+[01:39:49] [Server thread/INFO]: [AmitDe69: Killed 302 entities]
+[01:40:10] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[01:40:11] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[01:40:30] [Server thread/INFO]: [AmitDe69: Made SnakeByt333 a server operator]
+[01:40:36] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
+[01:40:38] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[01:40:39] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[01:40:54] [Server thread/INFO]: [RanDn98: Gave 1 [Bottle o' Enchanting] to RanDn98]
+[01:40:57] [Server thread/INFO]: [RanDn98: Gave 64 [Bottle o' Enchanting] to RanDn98]
+[01:41:17] [Server thread/INFO]: [RanDn98: Gave 30 [Bottle o' Enchanting] to RanDn98]
+[01:41:23] [Server thread/INFO]: [RanDn98: Gave 30 [Bottle o' Enchanting] to RanDn98]
+[01:41:28] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[01:41:36] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:37] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:37] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:38] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:38] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:38] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:38] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:39] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:39] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:39] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:39] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:40] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:40] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:40] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:42] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[01:41:44] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:44] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[01:41:45] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:45] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:45] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:45] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:46] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:46] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:46] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:47] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:47] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:47] [Server thread/INFO]: [RanDn98: Summoned new Villager]
+[01:41:56] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
+[01:42:12] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:42:25] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[01:42:31] [Server thread/INFO]: [RanDn98: Gave 1 [Bell] to RanDn98]
+[01:42:33] [Server thread/INFO]: [AmitDe69: Applied effect Absorption to Villager]
+[01:42:48] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:42:51] [Server thread/INFO]: [RanDn98: Summoned new Iron Golem]
+[01:42:59] [Server thread/INFO]: AmitDe69 has made the advancement [Ol' Betsy]
+[01:42:59] [Server thread/INFO]: AmitDe69 has made the advancement [Take Aim]
+[01:43:09] [Server thread/INFO]: [RanDn98: Gave 1 [Shield] to RanDn98]
+[01:44:35] [Server thread/INFO]: [RanDn98: Gamerule keepInventory is now set to: true]
+[01:44:40] [Server thread/INFO]: [AmitDe69: Killed 4 entities]
+[01:45:11] [Server thread/INFO]: SnakeByt333 has made the advancement [Not Today, Thank You]
+[01:45:21] [Server thread/INFO]: [RanDn98: Gamerule keepInventory is now set to: false]
+[01:45:25] [Server thread/INFO]: Villager bfj['Villager'/141279, l='ServerLevel[world]', x=-1001.86, y=57.00, z=2730.94] died, message: 'Villager hit the ground too hard'
+[01:46:01] [Server thread/INFO]: AmitDe69 has completed the challenge [Hero of the Village]
+[01:46:08] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:20] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:22] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:22] [Server thread/INFO]: [RanDn98: Removed every effect from AmitDe69]
+[01:46:22] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:23] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:24] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:25] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:25] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:26] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:26] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to AmitDe69]
+[01:46:31] [Server thread/INFO]: [RanDn98: Removed every effect from SnakeByt333]
+[01:46:35] [Server thread/INFO]: [RanDn98: Removed every effect from RanDn98]
+[01:46:36] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to RanDn98]
+[01:46:47] [Server thread/INFO]: RanDn98 has made the advancement [Ol' Betsy]
+[01:48:26] [Server thread/INFO]: [AmitDe69: Killed Pillager]
+[01:49:20] [Server thread/INFO]: [RanDn98: Set the time to 13000]
+[01:49:26] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to RanDn98]
+[01:49:28] [Server thread/INFO]: [RanDn98: Removed every effect from SnakeByt333]
+[01:49:31] [Server thread/INFO]: [RanDn98: Removed every effect from RanDn98]
+[01:49:32] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to RanDn98]
+[01:49:33] [Server thread/INFO]: [RanDn98: Removed every effect from AmitDe69]
+[01:49:34] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to RanDn98]
+[01:49:36] [Server thread/INFO]: [AmitDe69: Applied effect Bad Omen to RanDn98]
+[01:53:00] [Server thread/INFO]: [AmitDe69: Killed Ravager]
+[01:53:07] [Server thread/INFO]: [RanDn98: Set the time to 1000]
