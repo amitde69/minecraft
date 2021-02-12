@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-02-12 17:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-02-06 18:54:50 +0000"
@@ -344,6 +350,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2021-02-06 19:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-02-12 16:10:10 +0000"
     },
     "done": true
   },
@@ -489,13 +501,20 @@
       "minecraft:creeper": "2021-02-06 19:54:08 +0000",
       "minecraft:husk": "2021-02-07 01:52:33 +0000",
       "minecraft:enderman": "2021-02-06 19:26:43 +0000",
-      "minecraft:zombie": "2021-02-06 19:16:38 +0000"
+      "minecraft:zombie": "2021-02-06 19:16:38 +0000",
+      "minecraft:drowned": "2021-02-12 16:30:57 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-02-06 21:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-02-12 15:02:27 +0000"
     },
     "done": true
   },
@@ -508,6 +527,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2021-02-06 18:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-12 14:40:34 +0000"
     },
     "done": true
   },
@@ -727,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-02-12 17:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 19:56:27 +0000"
@@ -778,6 +809,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-02-06 19:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-02-12 15:43:05 +0000"
     },
     "done": true
   },
@@ -940,17 +977,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-02-06 20:55:31 +0000",
+      "minecraft:snowy_mountains": "2021-02-12 16:55:29 +0000",
       "minecraft:forest": "2021-02-06 18:45:31 +0000",
       "minecraft:mountains": "2021-02-06 20:36:43 +0000",
       "minecraft:taiga": "2021-02-06 21:00:27 +0000",
       "minecraft:desert_hills": "2021-02-06 18:53:25 +0000",
       "minecraft:deep_cold_ocean": "2021-02-06 20:55:27 +0000",
+      "minecraft:snowy_tundra": "2021-02-12 16:51:20 +0000",
       "minecraft:desert": "2021-02-06 18:46:29 +0000",
+      "minecraft:frozen_river": "2021-02-12 16:51:34 +0000",
       "minecraft:birch_forest": "2021-02-06 20:26:55 +0000",
+      "minecraft:snowy_beach": "2021-02-12 16:50:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-02-12 16:19:26 +0000",
       "minecraft:savanna_plateau": "2021-02-06 18:55:13 +0000",
       "minecraft:beach": "2021-02-06 20:53:00 +0000",
       "minecraft:dark_forest": "2021-02-06 20:28:53 +0000",
       "minecraft:river": "2021-02-06 18:41:04 +0000",
+      "minecraft:lukewarm_ocean": "2021-02-12 16:19:38 +0000",
+      "minecraft:snowy_taiga": "2021-02-12 16:50:27 +0000",
       "minecraft:birch_forest_hills": "2021-02-06 20:27:20 +0000",
       "minecraft:wooded_mountains": "2021-02-06 20:37:11 +0000",
       "minecraft:wooded_hills": "2021-02-06 18:41:22 +0000",
@@ -1105,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2021-02-12 16:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-02-06 19:10:49 +0000"
@@ -1219,6 +1269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-12 14:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-02-06 19:31:02 +0000"
@@ -1327,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-02-12 17:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-02-06 18:41:04 +0000"
@@ -1336,6 +1398,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-02-06 22:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-12 14:40:34 +0000"
     },
     "done": true
   },
@@ -1401,6 +1469,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-02-06 19:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-12 14:40:34 +0000"
     },
     "done": true
   },
@@ -1532,7 +1606,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2021-02-07 00:19:10 +0000"
+      "minecraft:sheep": "2021-02-12 16:03:50 +0000",
+      "minecraft:cow": "2021-02-07 00:19:10 +0000",
+      "minecraft:chicken": "2021-02-12 16:05:22 +0000"
     },
     "done": false
   },
@@ -1641,6 +1717,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-06 19:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-02-12 16:15:21 +0000"
     },
     "done": true
   },
@@ -1926,9 +2008,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-12 14:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-02-06 18:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-12 14:40:34 +0000"
     },
     "done": true
   },
@@ -1998,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2021-02-12 16:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-02-06 18:42:36 +0000"
@@ -2019,6 +2119,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 19:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2021-02-12 15:43:04 +0000"
     },
     "done": true
   },
@@ -2109,6 +2215,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2021-02-06 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-02-12 16:15:21 +0000"
     },
     "done": true
   },
@@ -2328,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-02-12 14:27:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-02-06 18:54:51 +0000"
@@ -2355,6 +2473,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 19:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-02-12 17:26:15 +0000"
     },
     "done": true
   },
