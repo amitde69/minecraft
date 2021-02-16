@@ -1,38 +1,258 @@
-[00:04:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10306, l='ServerLevel[world]', x=-736.86, y=70.00, z=2977.73]
-[00:04:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10432, l='ServerLevel[world]', x=-732.54, y=70.00, z=2976.92]
-[00:17:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12641, l='ServerLevel[world]', x=-734.18, y=70.00, z=2972.46]
-[00:18:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12894, l='ServerLevel[world]', x=-732.76, y=70.00, z=2972.97]
-[00:18:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12919, l='ServerLevel[world]', x=-733.10, y=70.00, z=2975.22]
-[00:25:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14153, l='ServerLevel[world]', x=-738.17, y=70.00, z=2970.83]
-[00:27:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14521, l='ServerLevel[world]', x=-732.89, y=70.00, z=2976.45]
-[00:27:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14539, l='ServerLevel[world]', x=-734.82, y=70.00, z=2970.91]
-[00:28:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/14819, l='ServerLevel[world]', x=-733.19, y=70.00, z=2971.24]
-[00:32:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/15494, l='ServerLevel[world]', x=-732.29, y=70.00, z=2978.17]
-[00:32:51] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:32:51] [Server thread/INFO]: SnakeByt333 left the game
-[01:11:39] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_272]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_272]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_272]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_272]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_272]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_272]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_272]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_272]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_272]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_272]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_272]
-	at zg$1.run(SourceFile:95) [server.jar:?]
-[01:11:42] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:42] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:42] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:42] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:42] [Server thread/INFO]: Preparing spawn area: 46%
-[01:11:42] [Server thread/INFO]: Time elapsed: 2274 ms
-[01:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:08:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:08:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:08:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:08:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:56] [main/INFO]: Reloading ResourceManager: Default
+[18:08:57] [Worker-Main-5/INFO]: Loaded 7 recipes
+[18:08:57] [Worker-Main-5/INFO]: Loaded 927 advancements
+[18:08:58] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:08:58] [Server thread/INFO]: Loading properties
+[18:08:58] [Server thread/INFO]: Default game type: SURVIVAL
+[18:08:58] [Server thread/INFO]: Generating keypair
+[18:08:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:08:59] [Server thread/INFO]: Using epoll channel type
+[18:08:59] [Server thread/INFO]: Preparing level "world"
+[18:08:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:09:01] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:01] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:01] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:01] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:01] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:02] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:02] [Server thread/INFO]: Preparing spawn area: 47%
+[18:09:02] [User Authenticator #1/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:09:02] [Server thread/INFO]: Time elapsed: 3291 ms
+[18:09:02] [Server thread/INFO]: Done (3.394s)! For help, type "help"
+[18:09:03] [Server thread/INFO]: SnakeByt333[/109.65.217.110:59719] logged in with entity id 43 at (-761.1982940678422, 71.0, 2980.827438235407)
+[18:09:03] [Server thread/INFO]: SnakeByt333 joined the game
+[18:09:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@490bb7bb[id=<null>,name=RanDn98,properties={},legacy=false] (/45.80.91.82:36393) lost connection: Disconnected
+[18:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18:09:10] [User Authenticator #2/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:09:11] [Server thread/INFO]: RanDn98[/45.80.91.82:36395] logged in with entity id 578 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:09:11] [Server thread/INFO]: RanDn98 joined the game
+[18:09:24] [Server thread/INFO]: <SnakeByt333> go to cleep
+[18:09:52] [User Authenticator #3/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[18:09:52] [Server thread/INFO]: AmitDe69[/217.132.174.196:55771] logged in with entity id 659 at (-759.1104489210609, 71.0, 2980.94230680306)
+[18:09:52] [Server thread/INFO]: AmitDe69 joined the game
+[18:09:58] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:09:58] [Server thread/INFO]: RanDn98 left the game
+[18:10:07] [User Authenticator #4/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:10:07] [Server thread/INFO]: RanDn98[/45.80.91.82:36406] logged in with entity id 717 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:10:07] [Server thread/INFO]: RanDn98 joined the game
+[18:10:39] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:10:39] [Server thread/INFO]: RanDn98 left the game
+[18:10:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/805, l='ServerLevel[world]', x=-737.85, y=70.00, z=2974.86]
+[18:10:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/805, l='ServerLevel[world]', x=-737.85, y=70.00, z=2974.86]
+[18:10:57] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[18:10:57] [Server thread/INFO]: SnakeByt333 left the game
+[18:11:07] [User Authenticator #5/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:11:07] [Server thread/INFO]: SnakeByt333[/109.65.217.110:59739] logged in with entity id 841 at (-759.8501776780498, 71.875, 2977.437183393594)
+[18:11:07] [Server thread/INFO]: SnakeByt333 joined the game
+[18:15:07] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
+[18:15:07] [Server thread/INFO]: SnakeByt333 left the game
+[18:15:12] [User Authenticator #6/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:15:12] [Server thread/INFO]: SnakeByt333[/109.65.217.110:59763] logged in with entity id 1719 at (-863.6828871930611, 61.7967356006687, 2933.699999988079)
+[18:15:12] [Server thread/INFO]: SnakeByt333 joined the game
+[18:16:07] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
+[18:16:07] [Server thread/INFO]: SnakeByt333 left the game
+[18:16:11] [User Authenticator #7/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:16:11] [Server thread/INFO]: SnakeByt333[/109.65.217.110:59765] logged in with entity id 1955 at (-880.7176308176183, 61.0, 2940.593597974172)
+[18:16:11] [Server thread/INFO]: SnakeByt333 joined the game
+[18:17:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2163, l='ServerLevel[world]', x=-734.47, y=70.00, z=2970.85]
+[18:19:50] [User Authenticator #8/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:19:50] [Server thread/INFO]: RanDn98[/45.80.91.82:36640] logged in with entity id 2805 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:19:50] [Server thread/INFO]: RanDn98 joined the game
+[18:20:37] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:20:37] [Server thread/INFO]: RanDn98 left the game
+[18:20:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2980, l='ServerLevel[world]', x=-736.07, y=70.00, z=2974.26]
+[18:20:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2980, l='ServerLevel[world]', x=-736.07, y=70.00, z=2974.26]
+[18:23:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@44c515ed[id=<null>,name=RanDn98,properties={},legacy=false] (/45.80.91.82:36353) lost connection: Disconnected
+[18:23:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3830, l='ServerLevel[world]', x=-736.45, y=70.00, z=2975.54]
+[18:23:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3830, l='ServerLevel[world]', x=-736.45, y=70.00, z=2975.54]
+[18:23:39] [User Authenticator #9/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:23:39] [Server thread/INFO]: RanDn98[/45.80.91.82:36360] logged in with entity id 3841 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:23:39] [Server thread/INFO]: RanDn98 joined the game
+[18:24:41] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:24:41] [Server thread/INFO]: RanDn98 left the game
+[18:25:04] [User Authenticator #10/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:25:04] [Server thread/INFO]: RanDn98[/45.80.91.82:36376] logged in with entity id 4023 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:25:04] [Server thread/INFO]: RanDn98 joined the game
+[18:26:05] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:26:05] [Server thread/INFO]: RanDn98 left the game
+[18:26:09] [User Authenticator #11/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:26:09] [Server thread/INFO]: RanDn98[/45.80.91.82:36390] logged in with entity id 4181 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:26:09] [Server thread/INFO]: RanDn98 joined the game
+[18:26:47] [Server thread/INFO]: [SnakeByt333: Kicked RanDn98: Kicked by an operator]
+[18:26:57] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:26:57] [Server thread/INFO]: RanDn98 left the game
+[18:27:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4284, l='ServerLevel[world]', x=-738.11, y=70.00, z=2972.95]
+[18:27:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4284, l='ServerLevel[world]', x=-738.11, y=70.00, z=2972.95]
+[18:27:00] [User Authenticator #12/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:27:01] [Server thread/INFO]: RanDn98[/45.80.91.82:36400] logged in with entity id 4285 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:27:01] [Server thread/INFO]: RanDn98 joined the game
+[18:27:46] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:27:46] [Server thread/INFO]: RanDn98 left the game
+[18:27:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4424, l='ServerLevel[world]', x=-733.73, y=70.00, z=2971.97]
+[18:27:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4424, l='ServerLevel[world]', x=-733.73, y=70.00, z=2971.97]
+[18:29:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4655, l='ServerLevel[world]', x=-733.49, y=70.00, z=2971.88]
+[18:29:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4655, l='ServerLevel[world]', x=-733.49, y=70.00, z=2971.88]
+[18:29:35] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[18:29:35] [Server thread/INFO]: SnakeByt333 left the game
+[18:29:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4741, l='ServerLevel[world]', x=-732.71, y=70.00, z=2971.60]
+[18:29:41] [User Authenticator #13/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:29:41] [Server thread/INFO]: SnakeByt333[/109.65.217.110:59838] logged in with entity id 4750 at (-753.4875000119209, 71.0, 2982.5113609441837)
+[18:29:41] [Server thread/INFO]: SnakeByt333 joined the game
+[18:29:49] [User Authenticator #14/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:29:50] [Server thread/INFO]: RanDn98[/45.80.91.82:36632] logged in with entity id 4775 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:29:50] [Server thread/INFO]: RanDn98 joined the game
+[18:30:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@28164ce[id=<null>,name=RanDn98,properties={},legacy=false] (/45.80.91.82:36631) lost connection: Disconnected
+[18:30:45] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:30:45] [Server thread/INFO]: RanDn98 left the game
+[18:31:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5112, l='ServerLevel[world]', x=-735.52, y=70.00, z=2976.04]
+[18:31:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5112, l='ServerLevel[world]', x=-735.52, y=70.00, z=2976.04]
+[18:35:09] [Server thread/INFO]: <SnakeByt333> can you hear me?
+[18:35:18] [Server thread/INFO]: <AmitDe69> im in a call
+[18:35:27] [Server thread/INFO]: <SnakeByt333> aaaaa
+[18:35:51] [Server thread/INFO]: <SnakeByt333> look at my bars
+[18:37:57] [User Authenticator #15/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:37:57] [Server thread/INFO]: RanDn98[/45.80.91.111:43570] logged in with entity id 6507 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:37:58] [Server thread/INFO]: RanDn98 joined the game
+[18:38:51] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:38:51] [Server thread/INFO]: RanDn98 left the game
+[18:38:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6671, l='ServerLevel[world]', x=-736.41, y=70.00, z=2974.27]
+[18:38:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6671, l='ServerLevel[world]', x=-736.41, y=70.00, z=2974.27]
+[18:39:00] [User Authenticator #16/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:39:00] [Server thread/INFO]: RanDn98[/45.80.91.111:43599] logged in with entity id 6695 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:39:00] [Server thread/INFO]: RanDn98 joined the game
+[18:39:32] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:39:32] [Server thread/INFO]: RanDn98 left the game
+[18:41:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7006, l='ServerLevel[world]', x=-732.68, y=70.00, z=2975.07]
+[18:41:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7006, l='ServerLevel[world]', x=-732.68, y=70.00, z=2975.07]
+[18:42:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7188, l='ServerLevel[world]', x=-734.46, y=70.00, z=2976.99]
+[18:42:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7188, l='ServerLevel[world]', x=-734.46, y=70.00, z=2976.99]
+[18:43:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7296, l='ServerLevel[world]', x=-732.41, y=70.00, z=2973.52]
+[18:43:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7296, l='ServerLevel[world]', x=-732.41, y=70.00, z=2973.52]
+[18:44:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7404, l='ServerLevel[world]', x=-731.83, y=70.00, z=2971.33]
+[18:44:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7404, l='ServerLevel[world]', x=-731.83, y=70.00, z=2971.33]
+[18:47:50] [Server thread/WARN]: SnakeByt333 moved too quickly! 1.0829472162697584,-1.376735613781733,9.877989824638007
+[18:49:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@6309e814[id=<null>,name=RanDn98,properties={},legacy=false] (/45.80.91.111:43778) lost connection: Disconnected
+[18:49:56] [User Authenticator #17/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:49:56] [Server thread/INFO]: RanDn98[/45.80.91.111:43781] logged in with entity id 8209 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:49:56] [Server thread/INFO]: RanDn98 joined the game
+[18:50:30] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:50:30] [Server thread/INFO]: RanDn98 left the game
+[18:50:36] [User Authenticator #18/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:50:36] [Server thread/INFO]: RanDn98[/45.80.91.111:43791] logged in with entity id 8308 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:50:36] [Server thread/INFO]: RanDn98 joined the game
+[18:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8353, l='ServerLevel[world]', x=-731.83, y=70.00, z=2977.78]
+[18:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8353, l='ServerLevel[world]', x=-731.83, y=70.00, z=2977.78]
+[18:50:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8353, l='ServerLevel[world]', x=-731.83, y=70.00, z=2977.78]
+[18:51:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8416, l='ServerLevel[world]', x=-737.15, y=70.00, z=2977.39]
+[18:51:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8416, l='ServerLevel[world]', x=-737.15, y=70.00, z=2977.39]
+[18:51:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8416, l='ServerLevel[world]', x=-737.15, y=70.00, z=2977.39]
+[18:51:21] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:51:21] [Server thread/INFO]: RanDn98 left the game
+[18:51:26] [User Authenticator #19/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:51:26] [Server thread/INFO]: RanDn98[/45.80.91.111:43802] logged in with entity id 8423 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:51:26] [Server thread/INFO]: RanDn98 joined the game
+[18:52:20] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:52:20] [Server thread/INFO]: RanDn98 left the game
+[18:52:26] [User Authenticator #20/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:52:26] [Server thread/INFO]: RanDn98[/45.80.91.111:43818] logged in with entity id 8554 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:52:26] [Server thread/INFO]: RanDn98 joined the game
+[18:52:58] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[18:52:58] [Server thread/INFO]: SnakeByt333 left the game
+[18:53:04] [User Authenticator #21/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:53:04] [Server thread/INFO]: SnakeByt333[/109.65.217.110:59974] logged in with entity id 8626 at (-765.735383913515, 73.0, 2983.6693493994453)
+[18:53:04] [Server thread/INFO]: SnakeByt333 joined the game
+[18:53:12] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:53:12] [Server thread/INFO]: RanDn98 left the game
+[18:53:15] [User Authenticator #22/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:53:15] [Server thread/INFO]: RanDn98[/45.80.91.111:43833] logged in with entity id 8642 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:53:15] [Server thread/INFO]: RanDn98 joined the game
+[18:53:16] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[18:53:16] [Server thread/INFO]: SnakeByt333 left the game
+[18:54:02] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:54:02] [Server thread/INFO]: RanDn98 left the game
+[18:54:07] [User Authenticator #23/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:54:07] [Server thread/INFO]: RanDn98[/45.80.91.111:43843] logged in with entity id 8728 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:54:07] [Server thread/INFO]: RanDn98 joined the game
+[18:54:28] [User Authenticator #24/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[18:54:28] [Server thread/INFO]: SnakeByt333[/109.65.217.110:60001] logged in with entity id 8766 at (-759.9940775367445, 71.0, 2981.6759415924107)
+[18:54:28] [Server thread/INFO]: SnakeByt333 joined the game
+[18:54:57] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:54:57] [Server thread/INFO]: RanDn98 left the game
+[18:55:00] [User Authenticator #25/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:55:01] [Server thread/INFO]: RanDn98[/45.80.91.111:43893] logged in with entity id 8827 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:55:01] [Server thread/INFO]: RanDn98 joined the game
+[18:55:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Bars'/8826, l='ServerLevel[world]', x=-756.70, y=71.43, z=2976.03]
+[18:55:53] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:55:53] [Server thread/INFO]: RanDn98 left the game
+[18:55:58] [User Authenticator #26/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:55:58] [Server thread/INFO]: RanDn98[/45.80.91.111:43914] logged in with entity id 8949 at (-757.8582440317339, 71.0, 2976.4813949164995)
+[18:55:58] [Server thread/INFO]: RanDn98 joined the game
+[18:56:23] [Server thread/INFO]: [SnakeByt333: Teleported RanDn98 to SnakeByt333]
+[18:56:47] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:56:47] [Server thread/INFO]: RanDn98 left the game
+[18:56:51] [User Authenticator #27/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:56:51] [Server thread/INFO]: RanDn98[/45.80.91.111:43925] logged in with entity id 9044 at (-756.6566150156378, 71.0, 2979.5691733594044)
+[18:56:51] [Server thread/INFO]: RanDn98 joined the game
+[18:57:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9070, l='ServerLevel[world]', x=-736.60, y=70.00, z=2978.17]
+[18:57:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9070, l='ServerLevel[world]', x=-736.60, y=70.00, z=2978.17]
+[18:57:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9070, l='ServerLevel[world]', x=-736.60, y=70.00, z=2978.17]
+[18:57:22] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:57:22] [Server thread/INFO]: RanDn98 left the game
+[18:57:30] [User Authenticator #28/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:57:30] [Server thread/INFO]: RanDn98[/45.80.91.111:43942] logged in with entity id 9140 at (-756.6566150156378, 71.0, 2979.5691733594044)
+[18:57:30] [Server thread/INFO]: RanDn98 joined the game
+[18:57:42] [Server thread/INFO]: [SnakeByt333: Teleported RanDn98 to SnakeByt333]
+[18:58:06] [Server thread/INFO]: [SnakeByt333: Teleported RanDn98 to SnakeByt333]
+[18:58:28] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:58:28] [Server thread/INFO]: RanDn98 left the game
+[18:58:36] [User Authenticator #29/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[18:58:36] [Server thread/INFO]: RanDn98[/45.80.91.111:43954] logged in with entity id 9275 at (-763.8625000119209, 73.5, 2994.699999988079)
+[18:58:36] [Server thread/INFO]: RanDn98 joined the game
+[18:59:31] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[18:59:31] [Server thread/INFO]: RanDn98 left the game
+[19:00:20] [User Authenticator #30/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[19:00:20] [Server thread/INFO]: RanDn98[/45.80.91.111:43525] logged in with entity id 9472 at (-763.8625000119209, 73.5, 2994.699999988079)
+[19:00:20] [Server thread/INFO]: RanDn98 joined the game
+[19:01:19] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[19:01:19] [Server thread/INFO]: RanDn98 left the game
+[19:03:35] [User Authenticator #31/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[19:03:37] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[19:03:37] [Server thread/INFO]: SnakeByt333 left the game
+[19:03:38] [Server thread/INFO]: SnakeByt333[/109.65.217.110:60043] logged in with entity id 9842 at (-764.3477086568761, 76.0, 2998.641962556959)
+[19:03:38] [Server thread/INFO]: SnakeByt333 joined the game
+[19:03:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9849, l='ServerLevel[world]', x=-736.72, y=70.00, z=2976.90]
+[19:03:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9849, l='ServerLevel[world]', x=-736.72, y=70.00, z=2976.90]
+[19:06:50] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
+[19:06:50] [Server thread/INFO]: SnakeByt333 left the game
+[19:07:48] [User Authenticator #32/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[19:07:48] [Server thread/INFO]: SnakeByt333[/109.65.217.110:60074] logged in with entity id 10331 at (-767.0227345148405, 71.5625, 2976.05358474557)
+[19:07:48] [Server thread/INFO]: SnakeByt333 joined the game
+[19:08:10] [User Authenticator #33/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[19:08:11] [Server thread/INFO]: RanDn98[/45.80.91.111:43867] logged in with entity id 10391 at (-763.8625000119209, 73.5, 2994.699999988079)
+[19:08:11] [Server thread/INFO]: RanDn98 joined the game
+[19:08:56] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[19:08:56] [Server thread/INFO]: RanDn98 left the game
+[19:08:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10556, l='ServerLevel[world]', x=-731.83, y=70.00, z=2976.67]
+[19:08:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10556, l='ServerLevel[world]', x=-731.83, y=70.00, z=2976.67]
+[19:09:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10761, l='ServerLevel[world]', x=-732.76, y=70.00, z=2977.52]
+[19:09:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10761, l='ServerLevel[world]', x=-732.76, y=70.00, z=2977.52]
+[19:10:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10817, l='ServerLevel[world]', x=-733.09, y=70.00, z=2971.19]
+[19:10:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10817, l='ServerLevel[world]', x=-733.09, y=70.00, z=2971.19]
+[19:10:39] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[19:10:39] [Server thread/INFO]: SnakeByt333 left the game
+[19:13:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11186, l='ServerLevel[world]', x=-732.31, y=70.00, z=2974.10]
+[19:14:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11274, l='ServerLevel[world]', x=-736.65, y=70.00, z=2974.46]
+[19:14:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11278, l='ServerLevel[world]', x=-732.36, y=70.00, z=2973.69]
+[19:16:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11561, l='ServerLevel[world]', x=-738.17, y=70.00, z=2975.18]
+[19:18:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11778, l='ServerLevel[world]', x=-735.33, y=70.00, z=2976.65]
+[19:18:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11793, l='ServerLevel[world]', x=-732.51, y=70.00, z=2973.66]
+[19:23:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12328, l='ServerLevel[world]', x=-736.24, y=70.00, z=2973.93]
+[19:27:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12872, l='ServerLevel[world]', x=-737.81, y=70.00, z=2972.65]
+[19:29:49] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[19:29:49] [Server thread/INFO]: AmitDe69 left the game

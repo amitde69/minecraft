@@ -233,15 +233,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2021-02-12 17:23:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2021-02-12 16:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-02-12 17:23:34 +0000"
     },
     "done": true
   },
@@ -930,15 +930,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_the_recipe": "2021-02-12 17:07:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-12 16:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2021-02-12 17:07:48 +0000"
     },
     "done": true
   },
@@ -2903,15 +2903,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2021-02-12 16:16:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-12 16:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-02-12 16:16:46 +0000"
     },
     "done": true
   },
