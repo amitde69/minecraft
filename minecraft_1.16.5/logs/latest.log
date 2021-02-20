@@ -1,206 +1,69 @@
-[00:07:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Acacia Leaves'/56998, l='ServerLevel[world]', x=-716.24, y=73.42, z=2975.44]
-[00:10:51] [Server thread/INFO]: [SnakeByt333: Kicked RanDn98: Kicked by an operator]
-[00:10:51] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[00:10:51] [Server thread/INFO]: RanDn98 left the game
-[00:10:55] [User Authenticator #8/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[00:10:55] [Server thread/INFO]: RanDn98[/45.80.91.111:43856] logged in with entity id 57951 at (-768.6723623355497, 64.0, 2982.8819720253114)
-[00:10:55] [Server thread/INFO]: RanDn98 joined the game
-[00:11:05] [Server thread/INFO]: [SnakeByt333: Kicked RanDn98: Kicked by an operator]
-[00:11:05] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[00:11:05] [Server thread/INFO]: RanDn98 left the game
-[00:11:08] [User Authenticator #9/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[00:11:08] [Server thread/INFO]: RanDn98[/45.80.91.111:43860] logged in with entity id 57987 at (-773.2557103803956, 64.0, 2981.736796470778)
-[00:11:08] [Server thread/INFO]: RanDn98 joined the game
-[00:22:13] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:22:13] [Server thread/INFO]: SnakeByt333 left the game
-[00:22:21] [Server thread/INFO]: RanDn98 lost connection: Disconnected
-[00:22:21] [Server thread/INFO]: RanDn98 left the game
-[00:22:32] [User Authenticator #10/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[00:22:32] [Server thread/INFO]: RanDn98[/45.80.91.111:43999] logged in with entity id 62270 at (-757.3567749995203, 99.0, 2896.699037853273)
-[00:22:32] [Server thread/INFO]: RanDn98 joined the game
-[00:22:36] [User Authenticator #11/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[00:22:36] [Server thread/INFO]: SnakeByt333[/109.64.213.184:61253] logged in with entity id 62311 at (-915.5028517452015, 72.0, 2835.0295121905065)
-[00:22:36] [Server thread/INFO]: SnakeByt333 joined the game
-[00:27:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63753, l='ServerLevel[world]', x=-736.84, y=70.00, z=2971.60]
-[00:27:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63753, l='ServerLevel[world]', x=-736.84, y=70.00, z=2971.60]
-[00:27:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63753, l='ServerLevel[world]', x=-736.84, y=70.00, z=2971.60]
-[00:33:28] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[00:33:28] [Server thread/INFO]: AmitDe69 left the game
-[00:33:37] [User Authenticator #12/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[00:33:37] [Server thread/INFO]: AmitDe69[/217.132.190.208:63666] logged in with entity id 64892 at (-775.1066674253227, 62.0, 2990.6501473994254)
-[00:33:37] [Server thread/INFO]: AmitDe69 joined the game
-[00:44:21] [Server thread/INFO]: AmitDe69 fell from a high place
-[00:49:49] [Server thread/INFO]: AmitDe69 fell from a high place
-[00:55:51] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
-[00:56:23] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[00:58:16] [Server thread/INFO]: [Server] waht is the level of hardnesss ?
-[00:58:54] [Server thread/INFO]: [SnakeByt333: The difficulty has been set to Hard]
-[01:00:46] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
-[01:00:58] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[01:02:09] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[01:02:29] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
-[01:02:47] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[01:07:25] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
-[01:11:02] [Server thread/INFO]: [Server] are you feeling it now mr krab ?
-[01:23:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Torch'/76264, l='ServerLevel[world]', x=-788.46, y=24.43, z=2893.54]
-[01:23:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Torch'/76273, l='ServerLevel[world]', x=-789.46, y=25.00, z=2893.88]
-[01:23:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Torch'/76282, l='ServerLevel[world]', x=-788.86, y=24.73, z=2893.70]
-[01:24:08] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[01:24:08] [Server thread/INFO]: SnakeByt333 left the game
-[01:24:10] [Server thread/INFO]: RanDn98 lost connection: Disconnected
-[01:24:10] [Server thread/INFO]: RanDn98 left the game
-[01:24:16] [User Authenticator #13/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[01:24:16] [Server thread/INFO]: RanDn98[/45.80.91.111:43750] logged in with entity id 76531 at (-791.1982992630196, 39.0, 2860.723609990448)
-[01:24:16] [Server thread/INFO]: RanDn98 joined the game
-[01:24:18] [User Authenticator #14/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[01:24:18] [Server thread/INFO]: SnakeByt333[/109.64.213.184:61875] logged in with entity id 76575 at (-793.4211633510015, 24.0, 2872.2877498846174)
-[01:24:18] [Server thread/INFO]: SnakeByt333 joined the game
-[01:29:51] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
-[01:31:36] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
-[01:31:44] [Server thread/INFO]: [RanDn98: Banned AmitDe69: Banned by an operator.]
-[01:31:44] [Server thread/INFO]: AmitDe69 lost connection: You are banned from this server
-[01:31:44] [Server thread/INFO]: AmitDe69 left the game
-[01:31:55] [Server thread/INFO]: Unbanned AmitDe69
-[01:31:59] [User Authenticator #15/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[01:31:59] [Server thread/INFO]: AmitDe69[/217.132.190.208:57083] logged in with entity id 77911 at (-760.9708707302574, 65.0, 3059.8930260225857)
-[01:31:59] [Server thread/INFO]: AmitDe69 joined the game
-[01:32:53] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
-[01:34:07] [Server thread/WARN]: Horse (vehicle of AmitDe69) moved wrongly! 0.25226687861004393
-[01:45:41] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[01:45:50] [Server thread/INFO]: <RanDn98> ./gunpower
-[01:46:25] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
-[01:46:27] [Server thread/INFO]: [AmitDe69: Set own game mode to Spectator Mode]
-[01:46:49] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[01:47:05] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
-[01:47:11] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
-[01:47:41] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
-[01:49:50] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[01:50:41] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:48] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:49] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:49] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:49] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:50] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:50] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:50] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:51] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:51] [Server thread/INFO]: [RanDn98: Saved the game]
-[01:50:53] [Server thread/INFO]: [Server] steeeep
-[01:50:57] [Server thread/INFO]: [RanDn98] shit
-[01:51:01] [Server thread/INFO]: <RanDn98> shit
-[01:51:04] [Server thread/INFO]: [RanDn98] shit
-[01:51:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:51:04] [Server thread/INFO]: sheep<--[HERE]
-[01:51:05] [Server thread/INFO]: <RanDn98> shit
-[01:51:06] [Server thread/INFO]: [RanDn98] shit
-[01:51:07] [Server thread/INFO]: <RanDn98> shit
-[01:51:08] [Server thread/INFO]: [RanDn98] shit
-[01:51:09] [Server thread/INFO]: <RanDn98> shit
-[01:51:10] [Server thread/INFO]: [RanDn98] shit
-[01:51:11] [Server thread/INFO]: <RanDn98> shit
-[01:51:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:51:11] [Server thread/INFO]: /sey sheep<--[HERE]
-[01:51:14] [Server thread/INFO]: [Server] sheep
-[01:51:20] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[01:51:23] [Server thread/INFO]: [RanDn98] shit
-[01:51:23] [Server thread/INFO]: <RanDn98> shit
-[01:51:24] [Server thread/INFO]: [RanDn98] shit
-[01:51:25] [Server thread/INFO]: <RanDn98> shit
-[01:51:27] [Server thread/INFO]: <AmitDe69> shit
-[01:51:29] [Server thread/INFO]: <AmitDe69> shit
-[01:51:31] [Server thread/INFO]: <AmitDe69> shit
-[01:51:34] [Server thread/INFO]: <AmitDe69> <shit>
-[01:52:57] [Server thread/INFO]: <RanDn98> kill AmitDe69
-[01:53:36] [Server thread/INFO]: RanDn98 has made the advancement [Take Aim]
-[01:54:21] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[01:54:21] [Server thread/INFO]: SnakeByt333 left the game
-[01:54:43] [User Authenticator #16/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[01:54:44] [Server thread/INFO]: SnakeByt333[/109.64.213.184:62103] logged in with entity id 82781 at (-718.4706421581766, 65.0, 2952.754668620478)
-[01:54:44] [Server thread/INFO]: SnakeByt333 joined the game
-[01:55:05] [Server thread/INFO]: [AmitDe69: Kicked RanDn98: Kicked by an operator]
-[01:55:05] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[01:55:05] [Server thread/INFO]: RanDn98 left the game
-[01:55:08] [User Authenticator #17/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[01:55:08] [Server thread/INFO]: RanDn98[/45.80.91.111:43665] logged in with entity id 82913 at (-763.7735667982766, 71.16610926093821, 2959.068130594875)
-[01:55:08] [Server thread/INFO]: RanDn98 joined the game
-[01:55:12] [Server thread/INFO]: [RanDn98: Banned AmitDe69: Banned by an operator.]
-[01:55:12] [Server thread/INFO]: AmitDe69 lost connection: You are banned from this server
-[01:55:12] [Server thread/INFO]: AmitDe69 left the game
-[01:55:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:55:18] [Server thread/INFO]: unop randn98<--[HERE]
-[01:55:33] [Server thread/INFO]: Made RanDn98 no longer a server operator
-[01:55:39] [User Authenticator #18/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[01:55:39] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ee54c54[id=abf4a136-9ed0-41c8-879d-22c77dda5753,name=AmitDe69,properties={textures=[com.mojang.authlib.properties.Property@35fbb078]},legacy=false] (/217.132.190.208:57226): You are banned from this server.
-Reason: Banned by an operator.
-[01:55:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ee54c54[id=abf4a136-9ed0-41c8-879d-22c77dda5753,name=AmitDe69,properties={textures=[com.mojang.authlib.properties.Property@35fbb078]},legacy=false] (/217.132.190.208:57226) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[01:55:58] [Server thread/INFO]: Unbanned AmitDe69
-[01:56:02] [User Authenticator #19/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[01:56:02] [Server thread/INFO]: AmitDe69[/217.132.190.208:58913] logged in with entity id 83103 at (-761.2172510503415, 70.9375, 2965.011590774336)
-[01:56:02] [Server thread/INFO]: AmitDe69 joined the game
-[01:58:11] [Server thread/INFO]: [SnakeByt333: Kicked RanDn98: Kicked by an operator]
-[01:58:11] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[01:58:11] [Server thread/INFO]: RanDn98 left the game
-[01:58:14] [User Authenticator #20/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[01:58:14] [Server thread/INFO]: RanDn98[/45.80.91.111:43703] logged in with entity id 83458 at (-753.8518706563067, 69.0, 2895.093117585966)
-[01:58:14] [Server thread/INFO]: RanDn98 joined the game
-[01:59:47] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[02:00:56] [Server thread/INFO]: <RanDn98> i need op
-[02:01:06] [Server thread/INFO]: [AmitDe69: Made RanDn98 a server operator]
-[02:01:39] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 200]
-[02:01:59] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 3]
-[02:02:16] [Server thread/INFO]: [RanDn98: Gamerule spawnRadius is now set to: 1]
-[02:02:21] [Server thread/INFO]: [RanDn98: Gamerule spawnRadius is now set to: 25]
-[02:02:24] [Server thread/INFO]: [RanDn98: Gamerule spawnRadius is now set to: 250]
-[02:02:33] [Server thread/INFO]: [RanDn98: Gamerule spawnRadius is now set to: 2500]
-[02:03:14] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[02:04:58] [Server thread/INFO]: [RanDn98: Gamerule spawnRadius is now set to: 10]
-[02:07:21] [Server thread/INFO]: [RanDn98: Gamerule doMobSpawning is now set to: false]
-[02:07:27] [Server thread/INFO]: [RanDn98: Gamerule doMobSpawning is now set to: true]
-[02:17:33] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/87318, l='ServerLevel[world]', x=-664.23, y=72.59, z=2991.97]
-[02:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-773, y=64, z=3017} fx{x=-774, y=62, z=3017}
-[02:28:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Stone'/89162, l='ServerLevel[world]', x=-816.84, y=63.96, z=3072.36]
-[02:29:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Redstone Dust'/89528, l='ServerLevel[world]', x=-738.10, y=70.00, z=2966.00]
-[02:29:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-715, y=65, z=2961} fx{x=-716, y=65, z=2961}
-[02:29:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-703, y=65, z=2965} fx{x=-702, y=64, z=2965}
-[02:35:28] [Server thread/INFO]: [RanDn98: The difficulty has been set to Normal]
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-136, y=10, z=142} fx{x=-136, y=10, z=143}
-[02:40:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-152, y=11, z=143} fx{x=-153, y=10, z=143}
-[02:41:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-80, y=15, z=190} fx{x=-81, y=13, z=190}
-[02:42:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-75, y=14, z=232} fx{x=-74, y=14, z=232}
-[02:42:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-71, y=16, z=281} fx{x=-71, y=15, z=282}
-[02:42:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-71, y=16, z=281} fx{x=-71, y=15, z=282}
-[02:42:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-71, y=16, z=281} fx{x=-71, y=15, z=282}
-[02:42:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-71, y=16, z=281} fx{x=-71, y=15, z=282}
-[02:55:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-757, y=85, z=2993} fx{x=-757, y=84, z=2993}
-[02:56:18] [Server thread/WARN]: RanDn98 moved wrongly!
-[02:56:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-723, y=74, z=3004} fx{x=-722, y=74, z=3004}
-[03:00:23] [Server thread/INFO]: [RanDn98: Kicked RanDn98: Kicked by an operator]
-[03:00:23] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[03:00:23] [Server thread/INFO]: RanDn98 left the game
-[03:03:08] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[03:03:08] [Server thread/INFO]: SnakeByt333 left the game
-[03:03:39] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[03:03:39] [Server thread/INFO]: AmitDe69 left the game
+[00:00:01] [Server thread/INFO]: [RanDn98: Teleported SnakeByt333 to RanDn98]
+[00:03:42] [Server thread/INFO]: SnakeByt333 fell from a high place
+[00:04:02] [Server thread/INFO]: [RanDn98: Teleported SnakeByt333 to RanDn98]
+[00:04:10] [Server thread/INFO]: [RanDn98: Teleported SnakeByt333 to -799.5, 60.0, 3000.5]
+[00:09:14] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[00:09:54] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:10:13] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[00:10:42] [Server thread/INFO]: [RanDn98: Gave 1 [Torch] to RanDn98]
+[00:10:54] [Server thread/INFO]: [RanDn98: Gave 1 [Torch] to RanDn98]
+[00:12:30] [Server thread/INFO]: [RanDn98: Gave 1 [Item Frame] to RanDn98]
+[00:12:43] [Server thread/INFO]: [RanDn98: Gave 1 [Empty Map] to RanDn98]
+[00:13:42] [Server thread/INFO]: <RanDn98> dare
+[00:13:52] [Server thread/INFO]: <RanDn98> emet
+[00:14:10] [Server thread/INFO]: [RanDn98: Applied effect Nausea to SnakeByt333]
+[00:14:18] [Server thread/INFO]: [RanDn98: Applied effect Nausea to RanDn98]
+[00:14:53] [Server thread/INFO]: [RanDn98: Gave 10 experience points to SnakeByt333]
+[00:14:57] [Server thread/INFO]: [RanDn98: Gave 1000 experience points to SnakeByt333]
+[00:15:43] [Server thread/INFO]: [SnakeByt333: The difficulty has been set to Normal]
+[00:16:05] [Server thread/INFO]: [RanDn98: Set 1 experience points on SnakeByt333]
+[00:16:32] [Server thread/INFO]: [RanDn98: Set 1 experience levels on SnakeByt333]
+[00:16:51] [Server thread/INFO]: [RanDn98: Set 150 experience levels on SnakeByt333]
+[00:16:56] [Server thread/INFO]: [RanDn98: Set 15000 experience levels on SnakeByt333]
+[00:17:00] [Server thread/INFO]: [RanDn98: Set 1500000 experience levels on SnakeByt333]
+[00:17:09] [Server thread/INFO]: [RanDn98: Set 1500000000 experience levels on SnakeByt333]
+[00:17:17] [Server thread/INFO]: [RanDn98: Set 999999999 experience levels on SnakeByt333]
+[00:17:41] [Server thread/INFO]: [RanDn98: Set 7 experience levels on SnakeByt333]
+[00:29:05] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[00:30:08] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[00:30:13] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:34:00] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:34:05] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:34:24] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:34:49] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:34:51] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:34:55] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:35:17] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:35:42] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:36:16] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:37:30] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:37:33] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:37:50] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:38:03] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:38:22] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:39:17] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:39:19] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:39:22] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:39:24] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:39:26] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:39:32] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:39:35] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:39:41] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[00:41:40] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[00:44:02] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[00:44:08] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[00:49:51] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[00:49:51] [Server thread/INFO]: RanDn98 left the game
+[01:36:57] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[01:37:28] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[01:37:28] [Server thread/INFO]: SnakeByt333 left the game
+[01:55:12] [User Authenticator #11/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[01:55:12] [Server thread/INFO]: AmitDe69[/212.235.10.224:61427] logged in with entity id 55222 at (-761.184240252009, 71.0, 2973.05379978372)
+[01:55:12] [Server thread/INFO]: AmitDe69 joined the game
+[01:56:14] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[01:57:40] [Server thread/INFO]: [AmitDe69: Set own game mode to Spectator Mode]
+[01:58:24] [Server thread/WARN]: AmitDe69 moved too quickly! -0.7755233052372432,3.375000133842505,9.588146905791746
+[01:58:42] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[01:59:45] [Server thread/WARN]: AmitDe69 moved too quickly! -7.044878944680136,0.0,-7.953585762039893
+[01:59:51] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[01:59:51] [Server thread/INFO]: AmitDe69 left the game
