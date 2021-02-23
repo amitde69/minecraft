@@ -753,6 +753,7 @@
       "minecraft:slime": "2021-02-12 17:11:30 +0000",
       "minecraft:evoker": "2021-02-19 20:20:13 +0000",
       "minecraft:phantom": "2021-02-19 01:41:45 +0000",
+      "minecraft:zombified_piglin": "2021-02-23 21:55:29 +0000",
       "minecraft:witch": "2021-02-19 20:18:08 +0000",
       "minecraft:wither_skeleton": "2021-02-19 23:48:22 +0000",
       "minecraft:husk": "2021-02-07 01:52:42 +0000",
@@ -1684,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2021-02-23 20:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 19:57:08 +0000"
@@ -2165,6 +2172,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-02-06 18:49:54 +0000",
+      "honey_bottle": "2021-02-23 20:47:36 +0000",
       "cooked_mutton": "2021-02-06 20:50:43 +0000",
       "cooked_beef": "2021-02-06 20:19:28 +0000",
       "cooked_cod": "2021-02-12 15:43:29 +0000",
@@ -2224,6 +2232,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-02-06 19:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/bullseye": {
+    "criteria": {
+      "bullseye": "2021-02-23 20:58:42 +0000"
     },
     "done": true
   },
@@ -2887,6 +2901,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2021-02-06 23:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2021-02-23 20:47:22 +0000"
     },
     "done": true
   },

@@ -1,186 +1,73 @@
-[12:54:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:54:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:54:03] [main/INFO]: Reloading ResourceManager: Default
-[12:54:03] [Worker-Main-2/INFO]: Loaded 7 recipes
-[12:54:04] [Worker-Main-2/INFO]: Loaded 927 advancements
-[12:54:06] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[12:54:06] [Server thread/INFO]: Loading properties
-[12:54:06] [Server thread/INFO]: Default game type: SURVIVAL
-[12:54:06] [Server thread/INFO]: Generating keypair
-[12:54:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:54:06] [Server thread/INFO]: Using epoll channel type
-[12:54:06] [Server thread/INFO]: Preparing level "world"
-[12:54:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:54:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:54:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:54:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:54:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:54:09] [Server thread/INFO]: Time elapsed: 2099 ms
-[12:54:09] [Server thread/INFO]: Done (2.274s)! For help, type "help"
-[12:54:25] [User Authenticator #1/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:54:25] [Server thread/INFO]: SnakeByt333[/109.64.213.184:53788] logged in with entity id 43 at (-755.7800699362697, 68.69015122839673, 2901.7795181521824)
-[12:54:25] [Server thread/INFO]: SnakeByt333 joined the game
-[12:54:37] [User Authenticator #2/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[12:54:38] [Server thread/INFO]: RanDn98[/45.80.91.111:43913] logged in with entity id 342 at (-752.6999999880791, 175.0, 2904.543097861165)
-[12:54:38] [Server thread/INFO]: RanDn98 joined the game
-[12:54:38] [Server thread/WARN]: SnakeByt333 moved too quickly! -3.8738516680060684,0.0,10.13284157226144
-[12:55:03] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[12:55:03] [Server thread/INFO]: SnakeByt333 left the game
-[12:55:11] [User Authenticator #3/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:55:11] [Server thread/INFO]: SnakeByt333[/109.64.213.184:53795] logged in with entity id 545 at (-788.138114099734, 80.30425508999257, 2973.0435882064903)
-[12:55:11] [Server thread/INFO]: SnakeByt333 joined the game
-[12:55:44] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[12:55:44] [Server thread/INFO]: SnakeByt333 left the game
-[12:55:51] [User Authenticator #4/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:55:51] [Server thread/INFO]: SnakeByt333[/109.64.213.184:53800] logged in with entity id 705 at (-797.5599436397437, 80.30425508999257, 2991.4433432058745)
-[12:55:51] [Server thread/INFO]: SnakeByt333 joined the game
-[12:56:30] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[12:56:30] [Server thread/INFO]: SnakeByt333 left the game
-[12:56:39] [User Authenticator #5/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:56:39] [Server thread/INFO]: SnakeByt333[/109.64.213.184:53812] logged in with entity id 828 at (-816.2540463114532, 80.30425508999257, 3041.3439794003266)
-[12:56:39] [Server thread/INFO]: SnakeByt333 joined the game
-[12:57:24] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[12:57:24] [Server thread/INFO]: SnakeByt333 left the game
-[12:57:42] [User Authenticator #6/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:57:42] [Server thread/INFO]: SnakeByt333[/109.64.213.184:53846] logged in with entity id 1214 at (-857.4107163276259, 94.17358693714537, 3103.8839207051305)
-[12:57:42] [Server thread/INFO]: SnakeByt333 joined the game
-[12:58:03] [User Authenticator #7/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[12:58:03] [Server thread/INFO]: AmitDe69[/212.235.10.224:50266] logged in with entity id 1275 at (-759.7130444811693, 71.0, 2980.6601506437732)
-[12:58:03] [Server thread/INFO]: AmitDe69 joined the game
-[12:58:11] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[12:58:11] [Server thread/INFO]: SnakeByt333 left the game
-[12:58:18] [User Authenticator #8/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:58:18] [Server thread/INFO]: SnakeByt333[/109.64.213.184:53861] logged in with entity id 1423 at (-857.4107163276259, 94.17358693714537, 3103.8839207051305)
-[12:58:18] [Server thread/INFO]: SnakeByt333 joined the game
-[12:58:20] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
-[12:58:32] [Server thread/INFO]: RanDn98 fell from a high place
-[12:58:48] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[12:58:48] [Server thread/INFO]: SnakeByt333 left the game
-[12:59:46] [User Authenticator #9/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[12:59:46] [Server thread/INFO]: SnakeByt333[/109.64.213.184:59139] logged in with entity id 2151 at (-862.2706829810443, 94.17358693714537, 3099.5449559219774)
-[12:59:46] [Server thread/INFO]: SnakeByt333 joined the game
-[13:00:34] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[13:04:08] [Server thread/INFO]: [SnakeByt333: Kicked RanDn98: Kicked by an operator]
-[13:04:08] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[13:04:08] [Server thread/INFO]: RanDn98 left the game
-[13:04:12] [User Authenticator #10/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[13:04:12] [Server thread/INFO]: RanDn98[/45.80.91.111:43550] logged in with entity id 3282 at (-754.4758354523339, 155.17675927506423, 2904.6088828065917)
-[13:04:12] [Server thread/INFO]: RanDn98 joined the game
-[13:04:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-754, y=172, z=2904} fx{x=-755, y=165, z=2904}
-[13:05:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Sugar Cane'/3607, l='ServerLevel[world]', x=-723.67, y=69.76, z=2996.25]
-[13:14:56] [Server thread/INFO]: [RanDn98: Kicked SnakeByt333: Kicked by an operator]
-[13:14:56] [Server thread/INFO]: SnakeByt333 lost connection: Kicked by an operator
-[13:14:56] [Server thread/INFO]: SnakeByt333 left the game
-[13:15:02] [User Authenticator #11/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[13:15:02] [Server thread/INFO]: SnakeByt333[/109.64.213.184:59235] logged in with entity id 6037 at (-731.4763977449272, 69.9375, 3008.8995901879957)
-[13:15:02] [Server thread/INFO]: SnakeByt333 joined the game
-[13:25:58] [Server thread/INFO]: <SnakeByt333> eeeee
-[13:30:04] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[13:30:04] [Server thread/INFO]: SnakeByt333 left the game
-[13:30:41] [User Authenticator #12/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[13:30:41] [Server thread/INFO]: SnakeByt333[/109.64.213.184:59461] logged in with entity id 9840 at (-873.2069131294531, 63.875, 2934.9349616540603)
-[13:30:41] [Server thread/INFO]: SnakeByt333 joined the game
-[13:38:05] [Server thread/INFO]: <SnakeByt333> eeeeeee
-[13:38:06] [Server thread/INFO]: <RanDn98> time set day
-[13:39:50] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to RanDn98]
-[13:39:55] [Server thread/INFO]: [RanDn98: Teleported AmitDe69 to SnakeByt333]
-[13:50:46] [Server thread/INFO]: RanDn98 lost connection: Disconnected
-[13:50:46] [Server thread/INFO]: RanDn98 left the game
-[13:50:58] [User Authenticator #13/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[13:50:58] [Server thread/INFO]: RanDn98[/45.80.91.111:43646] logged in with entity id 13315 at (-787.9230263042525, 87.0, 2974.486715005096)
-[13:50:58] [Server thread/INFO]: RanDn98 joined the game
-[13:55:29] [Server thread/INFO]: RanDn98 hit the ground too hard
-[14:02:15] [Server thread/INFO]: AmitDe69 has made the advancement [What a Deal!]
-[14:34:04] [Server thread/INFO]: [RanDn98: Kicked RanDn98: Kicked by an operator]
-[14:34:04] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
-[14:34:04] [Server thread/INFO]: RanDn98 left the game
-[14:34:11] [User Authenticator #14/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[14:34:11] [Server thread/INFO]: RanDn98[/45.80.91.111:43662] logged in with entity id 20590 at (-756.3000000119209, 82.0, 2973.469027780482)
-[14:34:11] [Server thread/INFO]: RanDn98 joined the game
-[14:46:05] [Server thread/INFO]: <SnakeByt333> eeeeeeeee
-[14:46:07] [Server thread/INFO]: RanDn98 lost connection: Disconnected
-[14:46:07] [Server thread/INFO]: RanDn98 left the game
-[14:46:09] [User Authenticator #15/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
-[14:46:09] [Server thread/INFO]: RanDn98[/45.80.91.111:43845] logged in with entity id 22807 at (-755.3000000119209, 84.0, 2974.4470638165863)
-[14:46:09] [Server thread/INFO]: RanDn98 joined the game
-[14:49:24] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[14:49:24] [Server thread/INFO]: SnakeByt333 left the game
-[14:50:03] [User Authenticator #16/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[14:50:04] [Server thread/INFO]: SnakeByt333[/109.64.213.184:60312] logged in with entity id 23578 at (-751.0246062927655, 70.9375, 2982.591874933906)
-[14:50:04] [Server thread/INFO]: SnakeByt333 joined the game
-[15:00:01] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[15:00:01] [Server thread/INFO]: AmitDe69 left the game
-[15:00:32] [Server thread/INFO]: [RanDn98: Kicked SnakeByt333: Kicked by an operator]
-[15:00:32] [Server thread/INFO]: SnakeByt333 lost connection: Kicked by an operator
-[15:00:32] [Server thread/INFO]: SnakeByt333 left the game
-[15:00:38] [User Authenticator #17/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[15:00:38] [Server thread/INFO]: SnakeByt333[/109.64.213.184:60391] logged in with entity id 27414 at (-814.3063688952066, 9.0, 3261.386069056859)
-[15:00:38] [Server thread/INFO]: SnakeByt333 joined the game
-[15:14:36] [User Authenticator #18/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[15:14:36] [Server thread/INFO]: AmitDe69[/212.235.10.224:55849] logged in with entity id 32855 at (-865.6403664203909, 63.0, 2936.461939993526)
-[15:14:36] [Server thread/INFO]: AmitDe69 joined the game
-[15:15:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Lantern'/33006, l='ServerLevel[world]', x=-765.93, y=82.03, z=2982.19]
-[15:15:32] [Server thread/WARN]: AmitDe69 was kicked for floating too long!
-[15:15:32] [Server thread/INFO]: AmitDe69 lost connection: Flying is not enabled on this server
-[15:15:32] [Server thread/INFO]: AmitDe69 left the game
-[15:15:37] [User Authenticator #19/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[15:15:37] [Server thread/INFO]: AmitDe69[/212.235.10.224:55870] logged in with entity id 33128 at (-840.1695385956338, 81.7125, 2954.5)
-[15:15:37] [Server thread/INFO]: AmitDe69 joined the game
-[15:21:13] [Server thread/INFO]: <AmitDe69> fkn lamas
-[15:22:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Carrot'/34926, l='ServerLevel[world]', x=-741.92, y=70.47, z=3015.58]
-[15:22:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Carrot'/34912, l='ServerLevel[world]', x=-739.56, y=69.94, z=3016.46]
-[15:27:07] [Server thread/WARN]: AmitDe69 was kicked for floating too long!
-[15:27:07] [Server thread/INFO]: AmitDe69 lost connection: Flying is not enabled on this server
-[15:27:07] [Server thread/INFO]: AmitDe69 left the game
-[15:27:09] [User Authenticator #20/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
-[15:27:09] [Server thread/INFO]: AmitDe69[/212.235.10.224:56159] logged in with entity id 36169 at (-840.5073669594728, 81.7125, 2954.5)
-[15:27:09] [Server thread/INFO]: AmitDe69 joined the game
-[15:30:21] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[15:30:21] [Server thread/INFO]: AmitDe69 left the game
-[15:30:29] [Server thread/INFO]: <SnakeByt333> amit come blow some tnt
-[15:30:34] [Server thread/INFO]: <SnakeByt333> before we go
-[15:42:52] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[15:44:23] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[15:50:33] [Server thread/WARN]: RanDn98 moved wrongly!
-[15:50:55] [Server thread/WARN]: RanDn98 moved wrongly!
-[15:55:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/42266, l='ServerLevel[world]', x=-42.39, y=9.44, z=330.30]
-[15:55:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/42266, l='ServerLevel[world]', x=-42.39, y=9.44, z=330.30]
-[16:00:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=47, y=13, z=316} fx{x=50, y=12, z=306}
-[16:01:32] [Server thread/INFO]: <RanDn98> 1 sec
-[16:03:26] [Server thread/INFO]: <RanDn98> have no tnt left
-[16:03:33] [Server thread/INFO]: SnakeByt333 tried to swim in lava
-[16:03:43] [Server thread/INFO]: RanDn98 burned to death
-[16:03:46] [Server thread/INFO]: <SnakeByt333> ffs
-[16:21:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=47, y=11, z=329} fx{x=-96, y=66, z=361}
-[16:26:15] [Server thread/INFO]: <RanDn98> -677 29 3050
-[16:26:37] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[16:27:04] [Server thread/INFO]: [SnakeByt333: Teleported SnakeByt333 to RanDn98]
-[16:37:55] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
-[16:38:01] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
-[16:39:21] [Server thread/INFO]: [SnakeByt333: Teleported SnakeByt333 to RanDn98]
-[16:41:54] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[16:42:23] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
-[16:42:24] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
-[16:42:26] [Server thread/INFO]: [SnakeByt333: Teleported SnakeByt333 to RanDn98]
-[16:45:04] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
-[16:46:26] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
-[16:46:43] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
-[16:47:56] [Server thread/INFO]: RanDn98 lost connection: Disconnected
-[16:47:56] [Server thread/INFO]: RanDn98 left the game
-[16:49:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Sugar Cane'/56371, l='ServerLevel[world]', x=-723.32, y=70.00, z=2996.99]
-[16:49:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/56389, l='ServerLevel[world]', x=-723.88, y=70.00, z=2996.23]
-[17:03:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/57920, l='ServerLevel[world]', x=-731.93, y=70.00, z=2978.16]
-[17:10:33] [Server thread/INFO]: SnakeByt333 lost connection: Timed out
-[17:10:33] [Server thread/INFO]: SnakeByt333 left the game
-[17:33:01] [User Authenticator #21/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[17:33:01] [Server thread/INFO]: SnakeByt333[/109.64.213.184:61727] logged in with entity id 58634 at (-754.3000000119209, 175.0, 2904.300000011921)
-[17:33:01] [Server thread/INFO]: SnakeByt333 joined the game
-[17:46:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60455, l='ServerLevel[world]', x=-736.94, y=70.00, z=2971.85]
-[17:46:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/60509, l='ServerLevel[world]', x=-732.58, y=70.00, z=2971.51]
-[17:55:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61504, l='ServerLevel[world]', x=-734.17, y=70.00, z=2971.90]
-[17:59:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/61982, l='ServerLevel[world]', x=-732.41, y=70.00, z=2977.04]
-[18:01:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62113, l='ServerLevel[world]', x=-732.03, y=70.00, z=2972.42]
+[20:28:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:28:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:28:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:28:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:28:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:28:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:28:19] [main/INFO]: Reloading ResourceManager: Default
+[20:28:20] [Worker-Main-6/INFO]: Loaded 7 recipes
+[20:28:21] [Worker-Main-6/INFO]: Loaded 927 advancements
+[20:28:22] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:28:22] [Server thread/INFO]: Loading properties
+[20:28:22] [Server thread/INFO]: Default game type: SURVIVAL
+[20:28:22] [Server thread/INFO]: Generating keypair
+[20:28:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:28:22] [Server thread/INFO]: Using epoll channel type
+[20:28:22] [Server thread/INFO]: Preparing level "world"
+[20:28:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:25] [Server thread/INFO]: Preparing spawn area: 33%
+[20:28:25] [Server thread/INFO]: Time elapsed: 2758 ms
+[20:28:25] [Server thread/INFO]: Done (2.838s)! For help, type "help"
+[20:30:24] [User Authenticator #1/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[20:30:24] [Server thread/INFO]: SnakeByt333[/109.64.213.184:51030] logged in with entity id 43 at (-754.3000000119209, 175.0, 2904.300000011921)
+[20:30:24] [Server thread/INFO]: SnakeByt333 joined the game
+[20:30:42] [Server thread/INFO]: [Server] joining soon
+[20:30:48] [Server thread/INFO]: <SnakeByt333> ok doky
+[20:33:58] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[20:34:54] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[20:43:08] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[20:43:08] [Server thread/INFO]: SnakeByt333 left the game
+[20:43:13] [User Authenticator #2/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[20:43:13] [Server thread/INFO]: SnakeByt333[/109.64.213.184:51137] logged in with entity id 3154 at (-731.6051379954226, 70.0, 2992.8732345241224)
+[20:43:13] [Server thread/INFO]: SnakeByt333 joined the game
+[20:58:42] [Server thread/INFO]: SnakeByt333 has completed the challenge [Bullseye]
+[21:18:35] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[21:18:35] [Server thread/INFO]: SnakeByt333 left the game
+[21:18:38] [User Authenticator #3/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[21:18:38] [Server thread/INFO]: SnakeByt333[/109.64.213.184:51310] logged in with entity id 9626 at (-739.6392391320404, 71.16610926093821, 2998.4288360464916)
+[21:18:38] [Server thread/INFO]: SnakeByt333 joined the game
+[21:24:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-101, y=16, z=323} fx{x=-116, y=14, z=319}
+[21:24:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-101, y=16, z=323} fx{x=-116, y=14, z=319}
+[21:29:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-165, y=15, z=320} fx{x=-180, y=14, z=319}
+[21:36:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-125, y=17, z=315} fx{x=-125, y=16, z=314}
+[21:36:49] [User Authenticator #4/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[21:36:49] [Server thread/INFO]: AmitDe69[/212.235.10.224:49700] logged in with entity id 14752 at (-863.6161388204663, 63.0, 2937.9641458406713)
+[21:36:49] [Server thread/INFO]: AmitDe69 joined the game
+[21:47:56] [Server thread/INFO]: AmitDe69 was slain by Piglin
+[21:48:44] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to -173.5, 80.0, 3000.5]
+[21:49:03] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to -173.5, 80.0, -2999.5]
+[21:49:17] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to -749.5, 80.0, -2999.5]
+[21:49:24] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to -749.5, 80.0, 3000.5]
+[21:49:29] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to SnakeByt333]
+[21:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-341, y=15, z=313} fx{x=-341, y=14, z=314}
+[21:56:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-341, y=15, z=313} fx{x=-341, y=14, z=314}
+[22:00:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-403, y=14, z=322} fx{x=-402, y=15, z=322}
+[22:00:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-403, y=14, z=322} fx{x=-402, y=15, z=322}
+[22:05:42] [Server thread/INFO]: AmitDe69 burned to death
+[22:06:18] [Server thread/INFO]: [AmitDe69: Teleported AmitDe69 to -749.5, 80.0, 3000.5]
+[22:08:31] [Server thread/INFO]: [SnakeByt333: Teleported AmitDe69 to SnakeByt333]
+[22:09:55] [Server thread/INFO]: AmitDe69 has made the advancement [Hidden in the Depths]
+[22:10:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-449, y=11, z=333} fx{x=-448, y=11, z=334}
+[22:10:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-455, y=11, z=330} fx{x=-454, y=11, z=327}
+[22:27:34] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[22:27:34] [Server thread/INFO]: SnakeByt333 left the game
+[22:28:35] [Server thread/INFO]: AmitDe69 fell from a high place
+[22:28:54] [Server thread/INFO]: [AmitDe69: Set own game mode to Creative Mode]
+[22:29:20] [Server thread/INFO]: [AmitDe69: Set own game mode to Survival Mode]
+[22:32:10] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[22:32:10] [Server thread/INFO]: AmitDe69 left the game
