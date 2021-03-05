@@ -1,3 +1,139 @@
-[00:01:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25251, l='ServerLevel[world]', x=-733.58, y=70.00, z=2976.72]
-[00:02:39] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:02:39] [Server thread/INFO]: SnakeByt333 left the game
+[15:15:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:33] [main/INFO]: Reloading ResourceManager: Default
+[15:15:34] [Worker-Main-6/INFO]: Loaded 7 recipes
+[15:15:34] [Worker-Main-6/INFO]: Loaded 927 advancements
+[15:15:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:15:36] [Server thread/INFO]: Loading properties
+[15:15:36] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:36] [Server thread/INFO]: Generating keypair
+[15:15:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:36] [Server thread/INFO]: Using epoll channel type
+[15:15:36] [Server thread/INFO]: Preparing level "world"
+[15:15:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:39] [User Authenticator #1/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[15:15:39] [Server thread/INFO]: Preparing spawn area: 50%
+[15:15:39] [Server thread/INFO]: Time elapsed: 3326 ms
+[15:15:39] [Server thread/INFO]: Done (3.420s)! For help, type "help"
+[15:15:40] [Server thread/INFO]: SnakeByt333[/109.64.213.184:52174] logged in with entity id 30 at (-743.418773693067, 104.0, 2910.6906240464696)
+[15:15:40] [Server thread/INFO]: SnakeByt333 joined the game
+[15:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:17:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/856, l='ServerLevel[world]', x=-733.41, y=70.00, z=2973.45]
+[15:18:17] [User Authenticator #2/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[15:18:17] [Server thread/INFO]: AmitDe69[/212.235.10.224:53756] logged in with entity id 1058 at (-754.5126684031519, 82.0, 2968.3224520655926)
+[15:18:17] [Server thread/INFO]: AmitDe69 joined the game
+[15:18:24] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:18:33] [Server thread/INFO]: [SnakeByt333: Teleported AmitDe69 to SnakeByt333]
+[15:20:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1632, l='ServerLevel[world]', x=-732.29, y=70.00, z=2972.19]
+[15:20:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1632, l='ServerLevel[world]', x=-732.29, y=70.00, z=2972.19]
+[15:24:03] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:29:13] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:29:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-872, y=63, z=2936} fx{x=-873, y=65, z=2936}
+[15:29:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-872, y=63, z=2936} fx{x=-874, y=66, z=2936}
+[15:34:17] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:40:02] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:44:19] [User Authenticator #3/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[15:44:19] [Server thread/INFO]: RanDn98[/45.80.91.111:43567] logged in with entity id 5826 at (-767.1473023788833, 78.0, 2994.8814607243075)
+[15:44:19] [Server thread/INFO]: RanDn98 joined the game
+[15:45:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6024, l='ServerLevel[world]', x=-736.56, y=70.00, z=2973.00]
+[15:45:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6024, l='ServerLevel[world]', x=-736.56, y=70.00, z=2973.00]
+[15:46:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6306, l='ServerLevel[world]', x=-735.05, y=70.00, z=2974.47]
+[15:46:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6306, l='ServerLevel[world]', x=-735.05, y=70.00, z=2974.47]
+[15:46:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6306, l='ServerLevel[world]', x=-735.05, y=70.00, z=2974.47]
+[15:47:35] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:50:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7860, l='ServerLevel[world]', x=-735.33, y=70.00, z=2973.13]
+[15:50:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7860, l='ServerLevel[world]', x=-735.33, y=70.00, z=2973.13]
+[15:51:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8025, l='ServerLevel[world]', x=-732.68, y=70.00, z=2971.25]
+[15:51:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8025, l='ServerLevel[world]', x=-732.68, y=70.00, z=2971.25]
+[15:51:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8042, l='ServerLevel[world]', x=-736.35, y=70.00, z=2972.69]
+[15:51:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8042, l='ServerLevel[world]', x=-736.35, y=70.00, z=2972.69]
+[15:52:52] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[15:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[15:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[15:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[15:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4646ms or 92 ticks behind
+[15:55:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:56:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9599, l='ServerLevel[world]', x=-732.09, y=70.00, z=2972.19]
+[15:56:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9599, l='ServerLevel[world]', x=-732.09, y=70.00, z=2972.19]
+[15:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:56:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9826, l='ServerLevel[world]', x=-732.79, y=70.00, z=2973.16]
+[15:56:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9826, l='ServerLevel[world]', x=-732.79, y=70.00, z=2973.16]
+[15:58:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10382, l='ServerLevel[world]', x=-732.60, y=70.00, z=2977.01]
+[15:58:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10382, l='ServerLevel[world]', x=-732.60, y=70.00, z=2977.01]
+[15:58:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10382, l='ServerLevel[world]', x=-732.60, y=70.00, z=2977.01]
+[15:58:18] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[16:00:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10937, l='ServerLevel[world]', x=-733.96, y=70.00, z=2972.50]
+[16:00:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10937, l='ServerLevel[world]', x=-733.96, y=70.00, z=2972.50]
+[16:00:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11011, l='ServerLevel[world]', x=-732.29, y=70.00, z=2971.53]
+[16:00:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11011, l='ServerLevel[world]', x=-732.29, y=70.00, z=2971.53]
+[16:01:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11337, l='ServerLevel[world]', x=-732.27, y=70.00, z=2974.55]
+[16:01:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11337, l='ServerLevel[world]', x=-732.27, y=70.00, z=2974.55]
+[16:01:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11355, l='ServerLevel[world]', x=-734.78, y=70.00, z=2971.69]
+[16:01:32] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11355, l='ServerLevel[world]', x=-734.78, y=70.00, z=2971.69]
+[16:02:22] [Server thread/INFO]: <SnakeByt333> eeeee
+[16:02:27] [Server thread/INFO]: <RanDn98> eeeee
+[16:04:03] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[16:07:16] [Server thread/INFO]: RanDn98 has reached the goal [Hired Help]
+[16:13:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-855, y=63, z=2946} fx{x=-855, y=62, z=2946}
+[16:14:27] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[16:14:36] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[16:14:36] [Server thread/INFO]: AmitDe69 left the game
+[16:14:40] [User Authenticator #4/INFO]: UUID of player AmitDe69 is abf4a136-9ed0-41c8-879d-22c77dda5753
+[16:14:41] [Server thread/INFO]: AmitDe69[/212.235.10.224:64280] logged in with entity id 14343 at (-864.6954751900702, 63.5625, 2951.0158378726674)
+[16:14:41] [Server thread/INFO]: AmitDe69 joined the game
+[16:25:52] [Server thread/INFO]: [AmitDe69: Set the weather to clear]
+[16:33:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19691, l='ServerLevel[world]', x=-733.37, y=70.00, z=2976.77]
+[16:34:16] [Server thread/INFO]: Villager bfj['Librarian'/653, l='ServerLevel[world]', x=-869.30, y=63.00, z=2949.50] was struck by lightning aql['Lightning Bolt'/19785, l='ServerLevel[world]', x=-867.50, y=63.00, z=2951.50].
+[16:35:44] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[16:35:44] [Server thread/INFO]: SnakeByt333 left the game
+[16:35:45] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[16:35:45] [Server thread/INFO]: RanDn98 left the game
+[16:35:48] [User Authenticator #5/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[16:35:48] [Server thread/INFO]: RanDn98[/45.80.91.111:43841] logged in with entity id 20351 at (-258.9820024725894, 62.24709927976581, 2408.893996796921)
+[16:35:48] [Server thread/INFO]: RanDn98 joined the game
+[16:36:00] [User Authenticator #6/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[16:36:00] [Server thread/INFO]: SnakeByt333[/109.64.213.184:52641] logged in with entity id 20607 at (-857.6999999880791, 63.0, 2949.9100559702483)
+[16:36:00] [Server thread/INFO]: SnakeByt333 joined the game
+[16:42:10] [Server thread/INFO]: <RanDn98> -100 61 23780
+[16:42:12] [Server thread/INFO]: <SnakeByt333> -875 66 2939
+[16:42:27] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[16:49:11] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[16:49:11] [Server thread/INFO]: RanDn98 left the game
+[16:49:11] [Server thread/INFO]: [AmitDe69: Kicked RanDn98: Kicked by an operator]
+[16:49:11] [Server thread/WARN]: handleDisconnection() called twice
+[16:49:19] [User Authenticator #7/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[16:49:19] [Server thread/INFO]: RanDn98[/45.80.91.111:43549] logged in with entity id 23899 at (-852.2114828408074, 66.74918707874468, 2957.80708312461)
+[16:49:19] [Server thread/INFO]: RanDn98 joined the game
+[16:49:22] [Server thread/INFO]: [AmitDe69: Kicked SnakeByt333: Kicked by an operator]
+[16:49:22] [Server thread/INFO]: SnakeByt333 lost connection: Kicked by an operator
+[16:49:22] [Server thread/INFO]: SnakeByt333 left the game
+[16:49:25] [Server thread/INFO]: [AmitDe69: Kicked RanDn98: Kicked by an operator]
+[16:49:25] [Server thread/INFO]: RanDn98 lost connection: Kicked by an operator
+[16:49:25] [Server thread/INFO]: RanDn98 left the game
+[16:49:29] [User Authenticator #8/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[16:49:29] [Server thread/INFO]: SnakeByt333[/109.64.213.184:52715] logged in with entity id 23920 at (-871.4497636139165, 66.0, 2943.540172379969)
+[16:49:29] [Server thread/INFO]: SnakeByt333 joined the game
+[16:49:30] [User Authenticator #9/INFO]: UUID of player RanDn98 is 4dff6a3b-b960-4b2d-81cf-5e1f259a052b
+[16:49:30] [Server thread/INFO]: RanDn98[/45.80.91.111:43551] logged in with entity id 23921 at (-852.5124999880791, 73.05600013732948, 2958.415023289959)
+[16:49:30] [Server thread/INFO]: RanDn98 joined the game
+[16:51:01] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[16:56:19] [Server thread/INFO]: Villager bfj['Villager'/625, l='ServerLevel[world]', x=-848.41, y=62.51, z=2930.54] died, message: 'Villager was slain by AmitDe69'
+[16:58:23] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[17:00:15] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[17:00:15] [Server thread/INFO]: SnakeByt333 left the game
+[17:01:06] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[17:01:06] [Server thread/INFO]: RanDn98 left the game
+[17:13:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/27335, l='ServerLevel[world]', x=-733.87, y=70.00, z=2976.62]
+[17:15:38] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
+[17:15:38] [Server thread/INFO]: AmitDe69 left the game
