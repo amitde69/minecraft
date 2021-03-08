@@ -822,6 +822,7 @@
       "minecraft:spider": "2021-02-06 19:48:58 +0000",
       "minecraft:piglin_brute": "2021-02-19 23:34:49 +0000",
       "minecraft:creeper": "2021-02-07 01:52:51 +0000",
+      "minecraft:wither": "2021-03-07 22:58:34 +0000",
       "minecraft:slime": "2021-02-12 17:11:30 +0000",
       "minecraft:evoker": "2021-02-19 20:20:13 +0000",
       "minecraft:phantom": "2021-02-19 01:41:45 +0000",
@@ -1222,6 +1223,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-02-06 19:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-03-07 23:29:06 +0000"
     },
     "done": true
   },
@@ -1903,6 +1910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-03-07 23:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2021-02-12 23:58:10 +0000"
@@ -2078,6 +2091,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-02-20 15:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2021-03-07 23:32:48 +0000"
     },
     "done": true
   },
@@ -2333,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-03-07 23:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-02-06 18:37:55 +0000"
@@ -2366,6 +2391,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2021-02-07 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-03-07 22:57:41 +0000"
     },
     "done": true
   },
@@ -2642,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-03-07 22:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-03-04 22:34:50 +0000"
@@ -2732,6 +2769,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-02-06 19:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-03-07 22:58:56 +0000"
     },
     "done": true
   },
@@ -3551,6 +3594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-03-07 22:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-02-19 21:34:43 +0000"
@@ -3932,6 +3981,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-12 16:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-03-07 23:21:06 +0000"
     },
     "done": true
   },
