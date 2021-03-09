@@ -1,202 +1,102 @@
-[00:00:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44831, l='ServerLevel[world]', x=-693.90, y=70.00, z=3054.34]
-[00:00:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44831, l='ServerLevel[world]', x=-693.90, y=70.00, z=3054.34]
-[00:00:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/45133, l='ServerLevel[world]', x=-691.49, y=76.68, z=3107.29]
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-770, y=74, z=3101} fx{x=-771, y=72, z=3102}
-[00:01:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-774, y=74, z=3099} fx{x=-776, y=72, z=3096}
-[00:01:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-782, y=73, z=3104} fx{x=-781, y=73, z=3104}
-[00:01:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-782, y=73, z=3104} fx{x=-781, y=73, z=3104}
-[00:01:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-781, y=74, z=3096} fx{x=-779, y=72, z=3096}
-[00:02:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-794, y=73, z=3104} fx{x=-793, y=71, z=3104}
-[00:02:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-794, y=73, z=3102} fx{x=-794, y=72, z=3100}
-[00:02:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-791, y=72, z=3098} fx{x=-790, y=72, z=3099}
-[00:02:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-791, y=72, z=3098} fx{x=-790, y=72, z=3099}
-[00:02:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-782, y=74, z=3099} fx{x=-782, y=73, z=3098}
-[00:02:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-780, y=73, z=3089} fx{x=-781, y=72, z=3091}
-[00:02:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-780, y=73, z=3089} fx{x=-781, y=72, z=3092}
-[00:02:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-780, y=73, z=3089} fx{x=-781, y=72, z=3092}
-[00:03:05] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:03:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/47811, l='ServerLevel[world]', x=-783.45, y=72.00, z=3081.13]
-[00:06:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/49611, l='ServerLevel[world]', x=-692.53, y=70.00, z=3053.83]
-[00:06:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/49611, l='ServerLevel[world]', x=-692.53, y=70.00, z=3053.83]
-[00:12:18] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:16:47] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
-[00:17:14] [Server thread/INFO]: <RanDn98> tp bait
-[00:19:50] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:19:50] [Server thread/INFO]: SnakeByt333 left the game
-[00:19:56] [User Authenticator #10/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[00:19:56] [Server thread/INFO]: SnakeByt333[/109.64.213.184:62772] logged in with entity id 54167 at (-698.6650908153617, 71.5, 3047.7306605736185)
-[00:19:56] [Server thread/INFO]: SnakeByt333 joined the game
-[00:21:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/54776, l='ServerLevel[world]', x=-679.83, y=70.00, z=3055.25]
-[00:21:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/54776, l='ServerLevel[world]', x=-679.83, y=70.00, z=3055.25]
-[00:21:26] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:21:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-748, y=74, z=3113} fx{x=-748, y=73, z=3113}
-[00:21:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-748, y=74, z=3113} fx{x=-748, y=73, z=3113}
-[00:21:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-748, y=74, z=3113} fx{x=-748, y=73, z=3113}
-[00:21:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-748, y=74, z=3113} fx{x=-748, y=73, z=3113}
-[00:22:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-690, y=84, z=3103} fx{x=-691, y=83, z=3102}
-[00:22:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-690, y=84, z=3103} fx{x=-691, y=83, z=3102}
-[00:22:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-690, y=84, z=3103} fx{x=-691, y=83, z=3102}
-[00:22:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-690, y=84, z=3103} fx{x=-691, y=83, z=3102}
-[00:22:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-690, y=84, z=3103} fx{x=-691, y=83, z=3102}
-[00:22:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-690, y=84, z=3103} fx{x=-691, y=83, z=3102}
-[00:23:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-682, y=79, z=3102} fx{x=-682, y=78, z=3101}
-[00:25:47] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:25:47] [Server thread/INFO]: SnakeByt333 left the game
-[00:25:50] [User Authenticator #11/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[00:25:50] [Server thread/INFO]: SnakeByt333[/109.64.213.184:62807] logged in with entity id 57450 at (-689.3000000119209, 76.0, 3112.2617593991963)
-[00:25:50] [Server thread/INFO]: SnakeByt333 joined the game
-[00:29:57] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:33:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-706, y=85, z=3110} fx{x=-706, y=84, z=3110}
-[00:33:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59951, l='ServerLevel[world]', x=-697.27, y=70.00, z=3055.90]
-[00:33:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/59951, l='ServerLevel[world]', x=-697.27, y=70.00, z=3055.90]
-[00:35:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-791, y=71, z=3086} fx{x=-793, y=70, z=3086}
-[00:35:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-793, y=70, z=3086} fx{x=-793, y=70, z=3087}
-[00:35:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-793, y=70, z=3086} fx{x=-793, y=70, z=3087}
-[00:35:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-788, y=73, z=3085} fx{x=-789, y=72, z=3085}
-[00:35:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-788, y=73, z=3085} fx{x=-789, y=72, z=3085}
-[00:35:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-788, y=73, z=3085} fx{x=-789, y=72, z=3085}
-[00:35:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-788, y=73, z=3085} fx{x=-789, y=72, z=3085}
-[00:35:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-795, y=71, z=3091} fx{x=-796, y=71, z=3090}
-[00:35:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-795, y=71, z=3091} fx{x=-796, y=71, z=3090}
-[00:35:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-797, y=74, z=3090} fx{x=-796, y=72, z=3091}
-[00:35:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-805, y=73, z=3089} fx{x=-804, y=71, z=3090}
-[00:35:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-805, y=73, z=3089} fx{x=-804, y=71, z=3090}
-[00:35:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-805, y=73, z=3089} fx{x=-804, y=71, z=3090}
-[00:35:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-805, y=73, z=3089} fx{x=-804, y=71, z=3090}
-[00:35:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-805, y=73, z=3089} fx{x=-804, y=71, z=3090}
-[00:36:41] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:36:41] [Server thread/INFO]: SnakeByt333 left the game
-[00:36:50] [User Authenticator #12/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[00:36:50] [Server thread/INFO]: SnakeByt333[/109.64.213.184:62874] logged in with entity id 62004 at (-790.5656873598349, 70.0, 3071.3530611552587)
-[00:36:50] [Server thread/INFO]: SnakeByt333 joined the game
-[00:37:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62116, l='ServerLevel[world]', x=-692.10, y=70.00, z=3054.50]
-[00:38:09] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:38:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62530, l='ServerLevel[world]', x=-696.76, y=70.00, z=3055.88]
-[00:38:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62530, l='ServerLevel[world]', x=-696.76, y=70.00, z=3055.88]
-[00:38:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62574, l='ServerLevel[world]', x=-697.29, y=70.00, z=3056.15]
-[00:38:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62574, l='ServerLevel[world]', x=-697.29, y=70.00, z=3056.15]
-[00:39:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62695, l='ServerLevel[world]', x=-689.99, y=70.00, z=3056.92]
-[00:40:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62765, l='ServerLevel[world]', x=-684.10, y=70.00, z=3054.72]
-[00:40:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62765, l='ServerLevel[world]', x=-684.10, y=70.00, z=3054.72]
-[00:40:57] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:42:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63556, l='ServerLevel[world]', x=-680.19, y=70.00, z=3055.62]
-[00:42:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63556, l='ServerLevel[world]', x=-680.19, y=70.00, z=3055.62]
-[00:43:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63847, l='ServerLevel[world]', x=-697.02, y=70.00, z=3061.36]
-[00:43:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/63847, l='ServerLevel[world]', x=-697.02, y=70.00, z=3061.36]
-[00:44:45] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:44:45] [Server thread/INFO]: SnakeByt333 left the game
-[00:44:50] [User Authenticator #13/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[00:44:50] [Server thread/INFO]: SnakeByt333[/109.64.213.184:62912] logged in with entity id 64140 at (-740.8366257159705, 69.0, 3090.699999988079)
-[00:44:50] [Server thread/INFO]: SnakeByt333 joined the game
-[00:48:04] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:49:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65787, l='ServerLevel[world]', x=-679.83, y=70.00, z=3054.81]
-[00:49:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65787, l='ServerLevel[world]', x=-679.83, y=70.00, z=3054.81]
-[00:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[00:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[00:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
-[00:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
-[00:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
-[00:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4494ms or 89 ticks behind
-[00:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
-[00:55:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
-[00:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11422ms or 228 ticks behind
-[00:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7386ms or 147 ticks behind
-[00:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9844ms or 196 ticks behind
-[00:57:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4959ms or 99 ticks behind
-[00:57:37] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[00:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
-[00:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
-[00:58:05] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[00:58:05] [Server thread/INFO]: SnakeByt333 left the game
-[00:58:09] [User Authenticator #14/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[00:58:09] [Server thread/INFO]: SnakeByt333[/109.64.213.184:62971] logged in with entity id 68475 at (-714.4726979275206, 70.0, 3042.1736676171454)
-[00:58:09] [Server thread/INFO]: SnakeByt333 joined the game
-[00:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5313ms or 106 ticks behind
-[00:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[00:59:28] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
-[01:02:32] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
-[01:07:25] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:16:03] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[01:25:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73025, l='ServerLevel[world]', x=-690.47, y=70.00, z=3061.00]
-[01:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:25:50] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:26:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73442, l='ServerLevel[world]', x=-684.95, y=70.00, z=3060.90]
-[01:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
-[01:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
-[01:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12362ms or 247 ticks behind
-[01:27:37] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[01:27:43] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16805ms or 336 ticks behind
-[01:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19981ms or 399 ticks behind
-[01:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22707ms or 454 ticks behind
-[01:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14625ms or 292 ticks behind
-[01:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13701ms or 274 ticks behind
-[01:30:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14232ms or 284 ticks behind
-[01:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14307ms or 286 ticks behind
-[01:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11751ms or 235 ticks behind
-[01:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11156ms or 223 ticks behind
-[01:31:57] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:32:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10790ms or 215 ticks behind
-[01:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9463ms or 189 ticks behind
-[01:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8166ms or 163 ticks behind
-[01:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7756ms or 155 ticks behind
-[01:33:39] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
-[01:33:39] [Server thread/INFO]: SnakeByt333 left the game
-[01:33:43] [User Authenticator #15/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
-[01:33:43] [Server thread/INFO]: SnakeByt333[/109.64.213.184:63193] logged in with entity id 75441 at (-682.5082076323174, 70.0, 3062.074999988079)
-[01:33:43] [Server thread/INFO]: SnakeByt333 joined the game
-[01:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7761ms or 155 ticks behind
-[01:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6873ms or 137 ticks behind
-[01:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[01:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4125ms or 82 ticks behind
-[01:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5282ms or 105 ticks behind
-[01:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4035ms or 80 ticks behind
-[01:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind
-[01:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
-[01:36:14] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[01:36:18] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:36:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
-[01:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:41:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/77987, l='ServerLevel[world]', x=-852.53, y=63.51, z=2933.74]
-[01:42:00] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:42:05] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[01:43:00] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
-[01:47:10] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[01:48:19] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:52:42] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[01:52:44] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[01:57:46] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[01:57:47] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[02:01:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/83052, l='ServerLevel[world]', x=-681.79, y=70.00, z=3059.05]
-[02:03:12] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[02:03:12] [Server thread/INFO]: [RanDn98: Set the time to 1000]
-[02:08:15] [Server thread/INFO]: [RanDn98: Set the weather to clear]
-[02:09:32] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_272]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_272]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_272]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_272]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_272]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_272]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_272]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_272]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_272]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_272]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_272]
-	at zg$1.run(SourceFile:95) [server.jar:?]
+[00:00:38] [Server thread/INFO]: [SnakeByt333: Set the time to 1000]
+[00:01:37] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:02:26] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:03:36] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/65610, l='ServerLevel[world]', x=-698.06, y=70.00, z=3061.17]
+[00:06:40] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:10:09] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/67033, l='ServerLevel[world]', x=-683.80, y=70.00, z=3061.03]
+[00:11:49] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:12:11] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:14:22] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:16:52] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[00:16:52] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:16:53] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:21:56] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:26:07] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:27:00] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:27:01] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[00:27:02] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:27:02] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:27:05] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[00:27:05] [Server thread/INFO]: SnakeByt333 left the game
+[00:27:15] [User Authenticator #3/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[00:27:15] [Server thread/INFO]: SnakeByt333[/109.64.213.184:52740] logged in with entity id 69674 at (-879.3000000119209, 72.5, 3003.326223125401)
+[00:27:15] [Server thread/INFO]: SnakeByt333 joined the game
+[00:27:18] [Server thread/INFO]: SnakeByt333 was slain by Iron Golem
+[00:27:23] [Server thread/INFO]: [SnakeByt333: Teleported SnakeByt333 to RanDn98]
+[00:29:44] [Server thread/INFO]: SnakeByt333 was slain by Iron Golem
+[00:29:51] [Server thread/INFO]: [SnakeByt333: Teleported SnakeByt333 to RanDn98]
+[00:30:44] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:31:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/70936, l='ServerLevel[world]', x=-692.80, y=70.00, z=3054.99]
+[00:32:04] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[00:32:05] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:37:13] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[00:37:14] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:37:17] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:42:17] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[00:42:18] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:42:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/73791, l='ServerLevel[world]', x=-696.96, y=70.00, z=3060.96]
+[00:45:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/74380, l='ServerLevel[world]', x=-698.17, y=70.00, z=3059.37]
+[00:46:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/74681, l='ServerLevel[world]', x=-686.49, y=70.00, z=3062.17]
+[00:46:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/74681, l='ServerLevel[world]', x=-686.49, y=70.00, z=3062.17]
+[00:47:20] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[00:51:38] [Server thread/INFO]: [SnakeByt333: Set the time to 1000]
+[00:52:24] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[00:52:25] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:57:31] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:01:52] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:02:38] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:02:39] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:07:42] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:07:43] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:12:59] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:16:56] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:18:06] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:23:14] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:23:15] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:28:29] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:28:30] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:33:45] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:35:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/83895, l='ServerLevel[world]', x=-698.13, y=70.00, z=3055.33]
+[01:37:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/84567, l='ServerLevel[world]', x=-695.91, y=70.00, z=3061.48]
+[01:37:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/84567, l='ServerLevel[world]', x=-695.91, y=70.00, z=3061.48]
+[01:37:54] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:37:55] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:42:59] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:47:15] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:48:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/87799, l='ServerLevel[world]', x=-696.25, y=70.00, z=3054.23]
+[01:48:42] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:48:43] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:52:24] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[01:52:42] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 3000]
+[01:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:52:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Sugar Cane'/89842, l='ServerLevel[world]', x=-723.88, y=70.00, z=2996.95]
+[01:53:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/89948, l='ServerLevel[world]', x=-723.88, y=70.00, z=3001.17]
+[01:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4397ms or 87 ticks behind
+[01:53:12] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[01:53:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[01:53:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Sugar Cane'/90485, l='ServerLevel[world]', x=-723.14, y=70.00, z=2996.37]
+[01:53:39] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 3]
+[01:53:51] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[01:54:02] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:55:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/91140, l='ServerLevel[world]', x=-723.17, y=70.01, z=2996.72]
+[01:56:48] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[01:57:39] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:57:59] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 3000]
+[01:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[01:58:10] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 25]
+[01:58:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/92524, l='ServerLevel[world]', x=-698.17, y=70.00, z=3062.17]
+[01:59:00] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[01:59:08] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:59:12] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 250]
+[01:59:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93021, l='ServerLevel[world]', x=-680.81, y=70.00, z=3054.78]
+[01:59:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93021, l='ServerLevel[world]', x=-680.81, y=70.00, z=3054.78]
+[01:59:39] [Server thread/INFO]: [RanDn98: Gamerule randomTickSpeed is now set to: 3]
+[02:00:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93368, l='ServerLevel[world]', x=-680.46, y=70.00, z=3054.29]
+[02:00:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/93368, l='ServerLevel[world]', x=-680.46, y=70.00, z=3054.29]
+[02:01:51] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[02:01:51] [Server thread/INFO]: SnakeByt333 left the game
+[02:03:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/94403, l='ServerLevel[world]', x=-680.32, y=70.00, z=3060.69]
+[02:04:14] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[02:04:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/94605, l='ServerLevel[world]', x=-697.67, y=70.00, z=3054.29]
+[02:05:40] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[02:05:40] [Server thread/INFO]: RanDn98 left the game
