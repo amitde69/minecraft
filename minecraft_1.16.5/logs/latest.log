@@ -1,3 +1,236 @@
-[00:00:09] [Server thread/INFO]: <AmitDe69> here ?
-[00:01:30] [Server thread/INFO]: AmitDe69 lost connection: Disconnected
-[00:01:30] [Server thread/INFO]: AmitDe69 left the game
+[00:03:38] [Server thread/INFO]: [RanDn98: Set the time to 13000]
+[00:03:40] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[00:11:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-54, y=12, z=361} fx{x=-54, y=10, z=360}
+[00:21:52] [Server thread/WARN]: RanDn98 moved wrongly!
+[00:28:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-202, y=17, z=431} fx{x=-232, y=12, z=425}
+[00:31:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-128, y=13, z=430} fx{x=-128, y=13, z=431}
+[00:31:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-128, y=13, z=430} fx{x=-128, y=13, z=431}
+[00:31:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-128, y=13, z=430} fx{x=-128, y=13, z=431}
+[00:31:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-128, y=13, z=430} fx{x=-128, y=13, z=431}
+[00:31:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-33, y=15, z=430} fx{x=-35, y=16, z=430}
+[00:37:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-62, y=12, z=450} fx{x=-62, y=11, z=450}
+[00:38:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=1, y=15, z=447} fx{x=1, y=14, z=446}
+[00:39:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=14, z=444} fx{x=3, y=15, z=448}
+[00:39:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=14, z=444} fx{x=3, y=15, z=448}
+[00:39:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=14, z=444} fx{x=3, y=15, z=448}
+[00:39:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=14, z=444} fx{x=3, y=15, z=448}
+[00:45:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40639, l='ServerLevel[world]', x=-690.07, y=70.00, z=3061.08]
+[00:45:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/40639, l='ServerLevel[world]', x=-690.07, y=70.00, z=3061.08]
+[00:52:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Netherrack'/42765, l='ServerLevel[world]', x=-258.32, y=15.38, z=465.50]
+[00:52:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-176, y=16, z=464} fx{x=-177, y=15, z=463}
+[00:56:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-218, y=13, z=473} fx{x=-219, y=12, z=472}
+[00:56:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-218, y=13, z=473} fx{x=-219, y=12, z=472}
+[00:56:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-218, y=13, z=473} fx{x=-219, y=12, z=472}
+[00:56:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-218, y=13, z=473} fx{x=-219, y=12, z=472}
+[00:56:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-218, y=13, z=473} fx{x=-219, y=12, z=472}
+[00:57:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-226, y=11, z=467} fx{x=-232, y=14, z=464}
+[01:13:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-271, y=16, z=284} fx{x=-271, y=15, z=284}
+[01:13:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51569, l='ServerLevel[world]', x=-291.13, y=15.81, z=282.88]
+[01:14:24] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[01:14:24] [Server thread/INFO]: SnakeByt333 left the game
+[01:14:40] [User Authenticator #3/INFO]: UUID of player SnakeByt333 is 8c1b55f3-3a58-4cae-bc1e-2853d3d458d1
+[01:14:40] [Server thread/INFO]: SnakeByt333[/109.64.213.184:52015] logged in with entity id 52188 at (-325.36477237561786, 15.0, 280.69999998807907)
+[01:14:40] [Server thread/INFO]: SnakeByt333 joined the game
+[01:16:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-443, y=15, z=276} fx{x=-406, y=14, z=272}
+[01:18:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/53960, l='ServerLevel[world]', x=-441.58, y=11.73, z=279.57]
+[01:18:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/53960, l='ServerLevel[world]', x=-441.58, y=11.73, z=279.57]
+[01:20:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-587, y=16, z=278} fx{x=-588, y=15, z=278}
+[01:25:39] [Server thread/INFO]: [RanDn98: Set the weather to clear]
+[01:25:43] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:29:10] [Server thread/INFO]: SnakeByt333 has completed the challenge [Cover Me in Debris]
+[01:30:03] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:31:28] [Server thread/INFO]: [SnakeByt333: Set the weather to clear]
+[01:32:47] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:32:52] [Server thread/WARN]: Trying to add entity with duplicated UUID 4efded09-e4a9-4854-97aa-144634690dd4. Existing minecraft:armor_stand#58482, new: minecraft:armor_stand#58482
+[01:33:00] [Server thread/WARN]: Trying to add entity with duplicated UUID 2f8a576a-a6e5-4028-af09-da270a2770ae. Existing minecraft:armor_stand#58532, new: minecraft:armor_stand#58532
+[01:33:04] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:11] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:24] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:26] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:34] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:39] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:43] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:33:48] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:03] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:07] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:16] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:19] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:46] [Server thread/INFO]: [RanDn98: Gave 1 [Debug Stick] to RanDn98]
+[01:34:51] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:55] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:34:59] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:35:03] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:35:29] [Server thread/WARN]: Trying to add entity with duplicated UUID 00a9f347-53b7-49a4-8838-0a5372ef1c35. Existing minecraft:armor_stand#59141, new: minecraft:armor_stand#59141
+[01:35:33] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:35:37] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:35:40] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:35:47] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:35:57] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[01:36:39] [Server thread/INFO]: [RanDn98: Set the time to 1000]
+[01:36:41] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:36:51] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[01:38:06] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:38:12] [Server thread/INFO]: SnakeByt333 was blown up by Creeper
+[01:38:17] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:38:22] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:38:44] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:38:52] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:38:58] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:39:13] [Server thread/INFO]: [RanDn98: Set 47 experience levels on SnakeByt333]
+[01:39:16] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:39:20] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:40:41] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:40:45] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:40:48] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:40:50] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:41:05] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:41:06] [Server thread/INFO]: [RanDn98: Summoned new Armor Stand]
+[01:48:25] [Server thread/INFO]: SnakeByt333 was struck by lightning whilst fighting RanDn98
+[01:49:41] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [FwooSh]
+[01:50:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62120, l='ServerLevel[world]', x=-686.13, y=70.00, z=3055.22]
+[01:50:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/62120, l='ServerLevel[world]', x=-686.13, y=70.00, z=3055.22]
+[01:50:13] [Server thread/INFO]: [Server] ma nisgar
+[01:50:20] [Server thread/INFO]: <RanDn98> lol yona lost all his shit
+[01:50:29] [Server thread/INFO]: [Server] not so lol but lol
+[01:50:49] [Server thread/INFO]: [Server] @yona may god be with you 
+[01:50:55] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
+[01:51:07] [Server thread/INFO]: [RanDn98: Gave 1 [Elytra] to SnakeByt333]
+[01:51:30] [Server thread/INFO]: [RanDn98: Applied enchantment Mending to SnakeByt333's item]
+[01:51:36] [Server thread/INFO]: [RanDn98: Applied enchantment Unbreaking III to SnakeByt333's item]
+[01:54:42] [Server thread/INFO]: <RanDn98> yona broke the house with creper
+[01:54:47] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[01:57:43] [Server thread/INFO]: SnakeByt333 went up in flames
+[01:57:52] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [FwooSh]
+[01:58:00] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [FwooSh]
+[01:58:29] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[01:59:10] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[01:59:33] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[01:59:53] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[02:00:39] [Server thread/INFO]: SnakeByt333 fell out of the world
+[02:00:39] [Server thread/INFO]: [RanDn98: Killed SnakeByt333]
+[02:01:09] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[02:01:39] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[02:02:01] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[02:02:56] [Server thread/INFO]: [RanDn98: Gave 1 [Ender Chest] to RanDn98]
+[02:03:28] [Server thread/INFO]: [RanDn98: Teleported RanDn98 to SnakeByt333]
+[02:03:30] [Server thread/INFO]: [SnakeByt333: Teleported SnakeByt333 to -787.5, 2500.0, 2976.5]
+[02:04:04] [Server thread/INFO]: SnakeByt333 fell from a high place
+[02:04:33] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:04:42] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:04:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/64521, l='ServerLevel[world]', x=-723.14, y=70.00, z=2997.03]
+[02:04:52] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:04:58] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:05:03] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[02:05:05] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[02:05:18] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:05:22] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[02:05:26] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:05:31] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[02:13:29] [Server thread/INFO]: [RanDn98: Set own game mode to Adventure Mode]
+[02:13:31] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:14:03] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:14:31] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:15:59] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
+[02:16:57] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:59] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:59] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:59] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:16:59] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:17:00] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:17:00] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:17:00] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:17:01] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:17:08] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:08] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:09] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:09] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:09] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:09] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:10] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:10] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:10] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:11] [Server thread/INFO]: [RanDn98: Summoned new Spider]
+[02:17:22] [Server thread/INFO]: [Server] letlet me just remind you that there is no backup
+[02:19:29] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:29] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:30] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:30] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:30] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:31] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:31] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:19:31] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:22] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:22] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:23] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:23] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:23] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:24] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:25] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:55] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:56] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:56] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:56] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:56] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:57] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:57] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:57] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:58] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:59] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:21:59] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:10] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:10] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:10] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:11] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:11] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:11] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:12] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:12] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:12] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:12] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:13] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:35] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:22:50] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:23:08] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[02:23:19] [Server thread/INFO]: [RanDn98: The difficulty has been set to Hard]
+[02:23:25] [Server thread/INFO]: [RanDn98: The difficulty has been set to Normal]
+[02:23:48] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:24:26] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:25:07] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:25:42] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:25:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Sugar Cane'/67464, l='ServerLevel[world]', x=-723.46, y=69.69, z=2996.25]
+[02:27:42] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:28:01] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:28:17] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:28:20] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:28:27] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:28:35] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[02:28:41] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:28:43] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[02:30:39] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:33:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Bamboo'/68582, l='ServerLevel[world]', x=-723.88, y=70.00, z=2995.94]
+[02:33:49] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[02:35:20] [Server thread/INFO]: [SnakeByt333: Set own game mode to Creative Mode]
+[02:35:21] [Server thread/INFO]: [RanDn98: The difficulty has been set to Peaceful]
+[02:35:27] [Server thread/INFO]: [RanDn98: The difficulty has been set to Normal]
+[02:35:30] [Server thread/INFO]: [SnakeByt333: Set own game mode to Spectator Mode]
+[02:48:21] [Server thread/INFO]: [RanDn98: Set own game mode to Spectator Mode]
+[02:48:40] [Server thread/INFO]: [RanDn98: Set own game mode to Creative Mode]
+[02:50:23] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:50:23] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:50:23] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:50:24] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:50:24] [Server thread/INFO]: [RanDn98: Summoned new Creeper]
+[02:51:47] [Server thread/INFO]: [RanDn98: Set own game mode to Survival Mode]
+[02:51:55] [Server thread/INFO]: [SnakeByt333: Set own game mode to Survival Mode]
+[02:52:24] [Server thread/INFO]: SnakeByt333 was slain by RanDn98 using [Wood Pecker]
+[02:52:42] [Server thread/INFO]: <RanDn98> eeeeeeeeee
+[02:52:57] [Server thread/INFO]: RanDn98 lost connection: Disconnected
+[02:52:57] [Server thread/INFO]: RanDn98 left the game
+[02:53:06] [Server thread/INFO]: SnakeByt333 lost connection: Disconnected
+[02:53:06] [Server thread/INFO]: SnakeByt333 left the game
